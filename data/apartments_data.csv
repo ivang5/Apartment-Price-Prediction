@@ -1,0 +1,1907 @@
+Place,Surface,Room Number,Flooring,Balcony,Price
+Adamovićevo Naselje,60,3.0,2,1,185000.0
+Detelinara,62,3.0,3,1,99000.0
+Adice,35,1.5,1,1,58330.0
+Klisa,91,4.0,1,1,133100.0
+Adice,51,2.0,0,1,73650.0
+Nova Detelinara,36,1.5,2,1,101970.0
+Bulevar Oslobođenja,91,3.0,1,1,216000.0
+Detelinara,48,2.0,2,1,105000.0
+Liman,74,3.0,4,1,154500.0
+Stari Grad,89,3.0,1,0,170000.0
+Novo Naselje,94,4.0,5,1,140390.0
+Novo Naselje,82,3.0,5,1,122460.0
+Novo Naselje,86,3.0,5,1,128440.0
+Banatić,38,1.5,5,1,87550.0
+Telep,66,3.5,0,1,143670.0
+Telep,58,2.5,1,1,127900.0
+Banatić,60,2.5,3,1,130000.0
+Nova Detelinara,49,2.0,2,1,126000.0
+Telep,113,4.0,4,1,174500.0
+Novo Naselje,59,2.5,1,0,121540.0
+Nova Detelinara,25,0.5,2,1,66000.0
+Petrovaradin,56,2.0,3,1,76220.0
+Adice,29,0.5,0,0,44805.0
+Nova Detelinara,115,4.0,1,1,310000.0
+Adice,81,3.0,3,1,99910.0
+Novo Naselje,93,4.0,2,1,175000.0
+Adice,42,1.5,1,1,70700.0
+Adice,67,3.5,2,1,103500.0
+Adice,37,2.0,2,1,57170.0
+Adice,80,3.0,2,1,107100.0
+Petrovaradin,82,3.5,4,1,169000.0
+Telep,59,3.0,0,1,146260.0
+Grbavica,123,4.0,6,1,375950.0
+Grbavica,24,0.5,2,1,72000.0
+Adice,27,0.5,0,0,38900.0
+Bulevar Oslobođenja,42,1.5,5,1,89600.0
+Stari Grad,112,4.0,7,1,437800.0
+Grbavica,52,2.0,3,1,108000.0
+Stari Grad,24,0.5,4,1,67980.0
+Petrovaradin,38,1.5,1,1,68900.0
+Nova Detelinara,47,2.5,-1,0,58700.0
+Stari Grad,119,3.5,1,1,270000.0
+Petrovaradin,47,2.0,0,1,87140.0
+Stari Grad,58,2.5,3,1,125500.0
+Novo Naselje,75,3.5,5,1,154500.0
+Adice,100,4.0,1,1,185900.0
+Podbara,60,2.0,3,1,154500.0
+Stari Grad,30,0.5,1,1,79000.0
+Detelinara,43,1.5,0,0,95000.0
+Banatić,56,2.0,6,0,100940.0
+Stari Grad,44,2.0,2,1,135960.0
+Liman,25,0.5,2,1,72100.0
+Grbavica,33,1.5,4,1,95790.0
+Telep,66,2.5,0,1,168250.0
+Petrovaradin,62,2.5,1,1,98000.0
+Stari Grad,25,0.5,1,0,77250.0
+Stari Grad,63,2.0,5,1,129780.0
+Adice,50,2.5,1,1,82570.0
+Stari Grad,87,3.0,1,1,173500.0
+Telep,81,4.0,2,1,108690.0
+Telep,39,2.0,2,1,80340.0
+Grbavica,35,1.5,0,1,93730.0
+Novo Naselje,47,2.0,2,1,102500.0
+Nova Detelinara,83,3.5,2,1,179530.0
+Stari Grad,31,1.5,0,1,80340.0
+Liman,72,3.0,5,1,154500.0
+Podbara,38,2.0,2,0,109700.0
+Sremska Kamenica,58,3.0,0,1,89610.0
+Adamovićevo Naselje,107,4.0,3,1,281190.0
+Bulevar Oslobođenja,37,1.0,5,1,89980.0
+Nova Detelinara,36,1.5,2,1,101970.0
+Bulevar Evrope,40,2.0,5,1,139000.0
+Novo Naselje,47,2.0,6,0,80000.0
+Novo Naselje,64,2.5,14,1,113300.0
+Sajmište,63,3.0,5,1,133900.0
+Grbavica,39,1.5,0,0,87550.0
+Telep,27,0.5,2,1,49000.0
+Stari Grad,38,1.0,7,0,93730.0
+Stari Grad,30,1.5,0,0,92700.0
+Liman,64,3.0,7,1,149750.0
+Novo Naselje,82,3.0,5,1,122470.0
+Nova Detelinara,37,1.5,5,1,87550.0
+Stari Grad,28,0.5,0,0,70000.0
+Telep,33,1.5,2,0,82400.0
+Satelit,33,1.5,3,1,66950.0
+Stari Grad,45,1.5,3,1,106600.0
+Grbavica,33,1.0,1,0,68000.0
+Bulevar Evrope,75,2.5,3,1,120500.0
+Novo Naselje,33,0.5,1,1,66200.0
+Veternik,35,1.5,5,0,45000.0
+Liman,62,2.0,3,1,140500.0
+Rotkvarija,99,4.0,3,1,226600.0
+Podbara,67,2.5,4,1,149350.0
+Adice,39,1.5,2,1,77000.0
+Adice,61,3.0,0,1,106500.0
+Liman,107,3.0,3,1,247970.0
+Telep,41,1.5,1,1,99910.0
+Nova Detelinara,53,2.5,8,1,163770.0
+Telep,62,2.5,4,1,116000.0
+Nova Detelinara,53,2.0,0,0,120000.0
+Telep,276,4.0,4,1,535000.0
+Veternik,107,4.0,1,1,187000.0
+Sajmište,60,2.5,0,1,116000.0
+Novo Naselje,49,2.0,1,1,100000.0
+Stari Grad,115,4.0,2,0,399000.0
+Stari Grad,112,4.0,1,1,288400.0
+Nova Detelinara,66,3.0,1,1,154500.0
+Stari Grad,94,3.0,3,1,245000.0
+Liman,77,3.0,6,1,164800.0
+Stari Grad,79,3.0,2,1,233000.0
+Podbara,62,3.0,2,1,185400.0
+Bulevar Oslobođenja,70,2.5,7,1,125650.0
+Liman,58,2.5,1,0,133900.0
+Salajka,63,2.5,3,1,154500.0
+Nova Detelinara,48,2.0,5,1,123600.0
+Petrovaradin,43,2.0,0,1,82400.0
+Detelinara,48,2.0,2,1,105000.0
+Podbara,40,1.5,2,1,72000.0
+Novo Naselje,32,1.5,5,0,82400.0
+Nova Detelinara,25,0.5,1,0,69500.0
+Adamovićevo Naselje,20,0.5,4,1,43300.0
+Adice,29,0.5,0,0,43260.0
+Grbavica,155,4.0,4,1,350000.0
+Petrovaradin,42,1.5,4,1,91500.0
+Stari Grad,79,3.0,2,1,233000.0
+Detelinara,62,3.0,0,1,119000.0
+Stari Grad,34,1.5,-1,0,59740.0
+Bulevar Oslobođenja,23,0.5,2,0,64000.0
+Grbavica,119,3.0,5,1,232800.0
+Nova Detelinara,49,2.5,5,1,100000.0
+Majur,40,1.5,2,1,94250.0
+Podbara,45,1.5,1,1,123600.0
+Grbavica,33,1.5,1,0,77000.0
+Adice,29,0.5,0,0,42000.0
+Podbara,95,4.0,2,1,239000.0
+Petrovaradin,93,4.0,1,1,186300.0
+Telep,54,2.5,3,1,155000.0
+Stari Grad,23,1.0,-1,0,43000.0
+Grbavica,30,1.0,3,1,86500.0
+Nova Detelinara,50,2.0,3,1,123600.0
+Novo Naselje,65,2.0,7,1,123850.0
+Telep,49,2.5,18,1,85900.0
+Telep,40,1.5,3,0,123600.0
+Bulevar Oslobođenja,39,1.5,15,0,83000.0
+Novo Naselje,42,1.0,2,1,87550.0
+Banatić,30,0.5,0,0,83430.0
+Veternik,24,0.5,1,0,38000.0
+Bulevar Evrope,230,3.0,11,1,711000.0
+Podbara,54,3.0,1,1,133900.0
+Telep,88,3.0,3,1,140500.0
+Bulevar Oslobođenja,61,2.0,6,1,119480.0
+Banatić,51,2.5,3,1,120000.0
+Novo Naselje,40,1.0,1,0,85000.0
+Sajmište,41,1.5,3,1,95480.0
+Liman,55,2.0,3,1,123600.0
+Detelinara,48,1.0,2,1,84000.0
+Bulevar Oslobođenja,127,4.0,1,1,369000.0
+Telep,108,5.5,5,1,295000.0
+Nova Detelinara,58,3.0,3,1,160000.0
+Liman,61,2.5,8,1,142000.0
+Nova Detelinara,76,2.5,4,1,137000.0
+Nova Detelinara,38,1.5,5,1,97850.0
+Bulevar Oslobođenja,71,3.0,3,1,124000.0
+Novo Naselje,27,1.0,0,0,59500.0
+Satelit,48,2.5,0,0,87550.0
+Telep,54,2.5,3,1,150500.0
+Nova Detelinara,51,2.5,1,1,103000.0
+Grbavica,79,3.0,1,0,197000.0
+Telep,40,2.0,3,1,113520.0
+Nova Detelinara,48,1.5,5,1,120000.0
+Grbavica,64,3.0,1,1,155000.0
+Grbavica,47,2.0,0,0,115050.0
+Bulevar Oslobođenja,21,0.5,5,0,63000.0
+Detelinara,58,2.5,3,1,123000.0
+Liman,53,2.0,5,1,135000.0
+Stari Grad,24,0.5,1,1,59000.0
+Telep,47,2.0,2,1,114850.0
+Rotkvarija,39,1.5,1,1,132900.0
+Sajmište,116,4.0,5,1,298700.0
+Novo Naselje,80,3.0,1,1,155000.0
+Adamovićevo Naselje,84,3.0,2,0,211150.0
+Liman,74,2.5,4,1,150000.0
+Bulevar Oslobođenja,59,2.0,5,1,140000.0
+Nova Detelinara,84,3.5,5,1,129780.0
+Bulevar Oslobođenja,53,2.0,3,1,139050.0
+Stari Grad,67,3.0,4,1,188000.0
+Rotkvarija,33,1.5,3,0,100940.0
+Sajmište,54,2.0,1,1,124200.0
+Novo Naselje,82,4.0,4,0,133900.0
+Bulevar Oslobođenja,93,4.0,2,1,198100.0
+Stari Grad,66,3.0,3,1,139050.0
+Nova Detelinara,49,2.5,5,1,100000.0
+Detelinara,47,2.0,4,1,64000.0
+Adamovićevo Naselje,94,3.5,1,1,218000.0
+Sajmište,123,4.0,5,1,344000.0
+Telep,58,3.0,2,0,114000.0
+Nova Detelinara,50,2.0,3,1,120000.0
+Bulevar Evrope,81,4.0,5,1,164500.0
+Telep,141,4.0,5,1,288000.0
+Grbavica,47,1.5,1,0,71790.0
+Podbara,53,2.5,3,0,132960.0
+Podbara,53,2.5,3,0,132960.0
+Podbara,45,2.0,1,0,87650.0
+Bulevar Oslobođenja,50,2.0,12,1,95000.0
+Bulevar Oslobođenja,71,3.0,3,1,185400.0
+Grbavica,78,2.5,6,1,128750.0
+Stari Grad,76,3.0,3,1,206000.0
+Rotkvarija,43,2.0,3,1,110730.0
+Liman,31,1.0,1,1,86520.0
+Telep,57,2.5,2,1,123600.0
+Stari Grad,74,3.0,4,0,235520.0
+Stari Grad,44,2.0,2,1,140040.0
+Adice,59,3.0,2,1,84460.0
+Nova Detelinara,61,2.5,2,1,127310.0
+Liman,64,2.5,2,1,146400.0
+Bulevar Oslobođenja,68,3.0,1,1,216430.0
+Stari Grad,23,1.5,6,0,66950.0
+Salajka,82,4.0,1,1,164800.0
+Bulevar Oslobođenja,134,4.0,6,1,345000.0
+Stari Grad,79,3.0,2,1,233000.0
+Nova Detelinara,75,3.0,3,1,142910.0
+Nova Detelinara,45,2.0,2,1,115160.0
+Telep,52,2.5,2,1,110400.0
+Nova Detelinara,73,4.0,5,1,164440.0
+Bulevar Evrope,24,1.0,3,0,72100.0
+Grbavica,56,3.0,4,0,143200.0
+Telep,63,3.0,1,1,139000.0
+Novo Naselje,33,0.5,3,1,72100.0
+Telep,26,0.5,1,0,65920.0
+Bulevar Oslobođenja,110,4.0,2,1,250000.0
+Adice,31,1.5,2,1,75000.0
+Adice,84,3.5,1,1,120510.0
+Telep,56,2.5,3,1,122780.0
+Rotkvarija,63,3.0,2,1,194670.0
+Grbavica,55,2.0,2,0,128750.0
+Novo Naselje,34,1.5,5,0,83430.0
+Rotkvarija,45,1.5,3,0,157500.0
+Sajmište,95,4.0,3,1,281320.0
+Podbara,46,2.5,3,0,133900.0
+Nova Detelinara,39,1.5,1,1,113300.0
+Stari Grad,63,2.0,1,1,216300.0
+Liman,62,2.0,1,1,173000.0
+Detelinara,54,2.0,1,1,110200.0
+Adice,36,1.5,0,0,66950.0
+Satelit,46,2.0,3,1,170000.0
+Futoški Put,48,2.5,1,0,90000.0
+Liman,136,4.0,4,1,350200.0
+Bulevar Evrope,47,2.0,3,1,84450.0
+Bulevar Evrope,43,2.0,2,1,79330.0
+Detelinara,58,2.5,3,1,103000.0
+Adamovićevo Naselje,134,4.0,6,1,463500.0
+Stari Grad,38,1.5,2,1,103700.0
+Novo Naselje,65,3.0,8,0,149000.0
+Detelinara,62,3.0,0,1,119000.0
+Veternik,43,2.0,2,1,88580.0
+Podbara,73,3.0,1,0,195700.0
+Novo Naselje,65,3.0,8,0,149000.0
+Detelinara,62,3.0,0,1,119000.0
+Veternik,43,2.0,2,1,88580.0
+Podbara,73,3.0,1,0,195700.0
+Mali Beograd,65,4.0,1,1,97000.0
+Mali Beograd,130,5.0,2,1,152955.0
+Podbara,44,2.0,1,0,113300.0
+Petrovaradin,39,1.5,1,0,83900.0
+Podbara,26,1.0,1,0,75000.0
+Podbara,59,2.0,1,0,145850.0
+Stari Grad,66,3.0,2,1,160000.0
+Sajmište,143,4.0,1,1,418000.0
+Telep,48,2.5,0,0,103000.0
+Bulevar Evrope,24,1.0,3,0,70040.0
+Adice,82,3.0,1,1,127100.0
+Stari Grad,81,3.0,0,0,196050.0
+Adice,99,4.0,2,1,168300.0
+Adice,75,4.0,1,1,127480.0
+Telep,46,3.0,2,1,108150.0
+Bulevar Oslobođenja,38,1.5,1,1,97850.0
+Bulevar Evrope,45,2.0,7,1,117400.0
+Podbara,98,4.0,3,1,220000.0
+Stari Grad,38,1.5,-1,0,58000.0
+Nova Detelinara,30,1.5,4,0,63000.0
+Bulevar Evrope,111,4.0,4,1,275000.0
+Stari Grad,39,2.0,2,0,130000.0
+Bulevar Oslobođenja,58,2.5,5,1,164800.0
+Nova Detelinara,47,2.0,4,1,114130.0
+Liman,53,2.0,6,1,149350.0
+Telep,57,2.5,1,1,139050.0
+Bulevar Evrope,150,5.0,1,1,330000.0
+Banatić,51,2.0,1,1,103000.0
+Petrovaradin,82,4.0,2,1,168920.0
+Adamovićevo Naselje,35,1.0,0,0,80340.0
+Telep,54,2.0,1,1,77250.0
+Nova Detelinara,66,3.0,1,1,212000.0
+Stari Grad,24,0.5,1,1,74160.0
+Liman,41,1.5,3,1,103000.0
+Novo Naselje,59,2.5,4,1,139050.0
+Adice,53,3.0,1,1,102240.0
+Telep,66,3.0,2,1,139050.0
+Stari Grad,37,1.5,7,0,129780.0
+Liman,70,2.5,2,1,187460.0
+Novo Naselje,54,2.0,3,1,105060.0
+Adice,29,0.5,0,0,44805.0
+Nova Detelinara,34,1.5,1,0,92700.0
+Petrovaradin,81,3.0,1,1,206000.0
+Klisa,70,3.0,1,0,175100.0
+Nova Detelinara,41,2.0,1,0,105600.0
+Bulevar Evrope,111,4.0,1,0,278100.0
+Novo Naselje,53,2.5,1,0,118450.0
+Telep,56,2.5,1,0,94700.0
+Detelinara,47,2.0,1,0,128750.0
+Detelinara,89,3.0,1,0,154500.0
+Bulevar Oslobođenja,46,2.0,3,1,132660.0
+Grbavica,23,0.5,2,1,71100.0
+Nova Detelinara,74,3.0,3,1,166500.0
+Adice,67,3.5,1,1,93170.0
+Bulevar Oslobođenja,48,2.0,4,1,113000.0
+Bulevar Oslobođenja,48,2.0,4,1,113000.0
+Sajmište,85,4.0,1,1,210635.0
+Sajmište,94,4.0,1,1,233261.0
+Sajmište,94,4.0,1,1,234125.0
+Sajmište,94,4.0,1,1,234224.0
+Grbavica,30,0.5,3,1,86520.0
+Grbavica,69,3.0,1,0,159900.0
+Telep,16,0.5,0,0,43260.0
+Bulevar Evrope,88,4.0,2,1,199408.0
+Adice,40,2.5,2,1,72100.0
+Podbara,29,0.5,1,1,83630.0
+Podbara,42,2.0,1,1,119970.0
+Bulevar Oslobođenja,28,0.5,3,1,79310.0
+Stari Grad,22,0.5,2,1,68000.0
+Adice,27,0.5,0,0,38800.0
+Novo Naselje,55,2.0,0,1,95000.0
+Adice,29,0.5,0,0,43260.0
+Podbara,68,3.5,4,1,133900.0
+Adice,28,0.5,0,0,43260.0
+Adice,28,0.5,0,0,43260.0
+Adice,28,0.5,0,0,43260.0
+Grbavica,52,2.0,4,1,117300.0
+Rotkvarija,41,2.0,0,0,145000.0
+Stari Grad,153,4.5,4,1,470000.0
+Podbara,26,0.5,0,0,66950.0
+Salajka,30,0.5,4,1,79300.0
+Sajmište,54,2.0,4,1,123000.0
+Bulevar Oslobođenja,51,3.5,1,0,236900.0
+Stari Grad,74,3.0,1,0,182930.0
+Grbavica,55,2.0,2,1,139050.0
+Novo Naselje,39,2.0,6,1,100760.0
+Telep,35,1.5,4,1,85850.0
+Telep,107,4.0,4,1,232280.0
+Telep,43,1.5,4,1,105180.0
+Telep,31,1.5,4,1,77050.0
+Telep,90,3.0,4,0,194950.0
+Detelinara,50,2.0,3,1,123600.0
+Majur,62,3.0,4,0,121790.0
+Bulevar Oslobođenja,61,2.5,1,1,142160.0
+Telep,94,5.0,0,0,169950.0
+Stari Grad,78,3.0,4,0,200850.0
+Adice,27,1.0,1,0,39970.0
+Telep,40,1.5,1,1,96800.0
+Telep,27,0.5,1,1,75100.0
+Stari Grad,38,1.5,4,1,125250.0
+Telep,67,3.0,1,1,138700.0
+Sremska Kamenica,71,3.0,0,1,144200.0
+Adamovićevo Naselje,67,3.0,3,1,179220.0
+Bulevar Oslobođenja,53,2.0,8,1,163770.0
+Stari Grad,48,1.5,2,1,153470.0
+Stari Grad,67,2.5,4,1,149350.0
+Grbavica,26,0.5,5,1,68000.0
+Klisa,117,4.0,0,1,190550.0
+Adice,97,5.0,1,1,154500.0
+Nova Detelinara,22,0.5,5,1,43260.0
+Salajka,42,1.5,4,0,133900.0
+Telep,78,3.0,4,1,190550.0
+Liman,57,2.5,1,1,118450.0
+Telep,75,4.5,1,0,169950.0
+Stari Grad,70,2.5,3,1,149350.0
+Liman,49,1.5,7,1,128750.0
+Telep,38,1.5,1,1,101800.0
+Grbavica,39,1.5,0,0,91670.0
+Petrovaradin,50,2.5,1,1,88250.0
+Sajmište,143,4.0,1,1,418000.0
+Stari Grad,112,4.0,1,1,288400.0
+Nova Detelinara,27,0.5,5,1,68500.0
+Telep,54,3.0,2,0,146600.0
+Nova Detelinara,43,2.0,0,1,113300.0
+Liman,82,4.0,1,1,253380.0
+Stari Grad,69,3.0,3,1,132600.0
+Nova Detelinara,47,2.0,4,1,114124.0
+Adice,36,0.5,0,1,72100.0
+Detelinara,26,0.5,2,1,71070.0
+Detelinara,89,3.0,5,0,157590.0
+Sajmište,63,3.0,3,1,144200.0
+Sremska Kamenica,46,2.0,1,1,106500.0
+Adice,55,2.5,0,1,87550.0
+Sajmište,87,4.0,2,1,216390.0
+Telep,87,4.0,3,1,257500.0
+Bulevar Evrope,44,2.0,5,1,127310.0
+Nova Detelinara,36,1.5,3,1,90000.0
+Liman,81,3.0,1,1,179000.0
+Sajmište,54,2.0,1,0,136990.0
+Liman,47,1.5,1,0,120500.0
+Bulevar Oslobođenja,56,2.0,1,0,123600.0
+Nova Detelinara,58,3.0,4,1,154500.0
+Adice,87,3.0,3,0,147400.0
+Stari Grad,23,0.5,3,1,75810.0
+Telep,73,3.5,5,1,164800.0
+Stari Grad,27,0.5,4,1,99910.0
+Stari Grad,35,1.0,2,1,77250.0
+Stari Grad,106,3.5,1,1,144200.0
+Petrovaradin,40,2.0,2,1,96050.0
+Nova Detelinara,59,3.0,2,1,138000.0
+Telep,52,2.5,2,1,107100.0
+Adice,27,0.5,0,0,40685.0
+Liman,77,3.0,10,0,185400.0
+Grbavica,50,2.0,2,1,123600.0
+Petrovaradin,43,1.5,0,1,82400.0
+Sajmište,64,2.0,6,0,139050.0
+Detelinara,63,3.0,2,1,146000.0
+Nova Detelinara,45,2.0,2,1,113300.0
+Liman,55,2.0,6,1,122570.0
+Banatić,42,2.0,5,1,77250.0
+Adice,60,3.5,0,0,108210.0
+Adice,28,1.5,0,0,40500.0
+Telep,60,2.5,0,1,115500.0
+Adice,29,0.5,0,0,37600.0
+Bulevar Oslobođenja,50,2.0,2,1,123600.0
+Sajmište,60,2.5,3,1,129900.0
+Rotkvarija,111,4.0,4,1,228600.0
+Novo Naselje,53,2.5,2,1,118500.0
+Bulevar Evrope,87,3.0,1,1,288400.0
+Bulevar Evrope,53,1.5,4,0,92700.0
+Sajmište,29,0.5,4,1,81370.0
+Novo Naselje,49,2.0,4,1,85800.0
+Nova Detelinara,85,4.0,1,1,118450.0
+Telep,100,4.0,0,1,249260.0
+Liman,30,1.0,1,0,77250.0
+Novo Naselje,31,1.0,3,1,74160.0
+Stari Grad,81,3.0,1,0,196000.0
+Novo Naselje,74,3.0,3,1,203450.0
+Stari Grad,79,4.0,5,0,306950.0
+Stari Grad,67,3.0,4,0,180000.0
+Grbavica,103,4.0,6,1,164800.0
+Telep,84,3.5,1,1,185900.0
+Majur,48,2.0,4,0,101090.0
+Majur,37,1.5,4,0,83570.0
+Bulevar Oslobođenja,70,3.0,7,0,217000.0
+Majur,26,0.5,2,0,69700.0
+Sremska Kamenica,71,3.5,0,1,92700.0
+Stari Grad,39,1.5,5,0,92700.0
+Petrovaradin,45,2.0,-1,1,74100.0
+Sremska Kamenica,39,1.5,2,1,61800.0
+Liman,81,3.0,2,1,230000.0
+Banatić,25,1.0,11,1,54000.0
+Nova Detelinara,54,2.5,3,1,113300.0
+Stari Grad,36,1.0,-1,0,77250.0
+Nova Detelinara,54,2.5,3,1,113300.0
+Stari Grad,36,1.0,-1,0,77250.0
+Salajka,47,2.0,1,1,95400.0
+Salajka,85,4.0,3,1,161090.0
+Salajka,86,4.0,2,1,161090.0
+Salajka,50,2.0,3,1,101360.0
+Salajka,44,2.0,3,1,90932.0
+Salajka,55,3.0,3,1,109590.0
+Rotkvarija,77,3.0,2,1,164800.0
+Salajka,50,2.0,2,1,101360.0
+Rotkvarija,122,4.0,5,1,430000.0
+Rotkvarija,82,3.0,1,1,173140.0
+Grbavica,71,4.0,5,1,173000.0
+Grbavica,22,0.5,4,0,72100.0
+Rotkvarija,125,4.0,2,1,309000.0
+Bulevar Oslobođenja,64,3.5,5,1,144200.0
+Detelinara,62,3.0,2,1,125660.0
+Rotkvarija,23,0.5,0,0,62000.0
+Petrovaradin,87,3.0,1,1,134420.0
+Podbara,56,2.5,1,0,164800.0
+Satelit,30,1.0,1,0,71070.0
+Podbara,43,2.0,4,1,123600.0
+Salajka,50,2.0,1,1,149350.0
+Telep,15,0.5,0,0,27500.0
+Nova Detelinara,84,4.0,5,1,129750.0
+Novo Naselje,55,2.0,0,1,108000.0
+Liman,73,3.0,5,1,175100.0
+Grbavica,48,2.0,5,1,118450.0
+Stari Grad,57,2.0,2,0,152440.0
+Telep,44,2.0,1,1,108800.0
+Nova Detelinara,66,3.0,4,1,142750.0
+Novo Naselje,36,1.5,2,1,81500.0
+Stari Grad,80,3.0,3,1,181500.0
+Grbavica,33,1.0,1,0,77000.0
+Novo Naselje,55,1.5,4,1,82400.0
+Detelinara,47,2.0,4,1,64000.0
+Nova Detelinara,25,0.5,1,0,69500.0
+Nova Detelinara,56,2.0,2,1,104000.0
+Detelinara,48,2.0,2,1,105000.0
+Grbavica,58,2.5,1,1,153970.0
+Sajmište,49,1.5,1,1,151410.0
+Podbara,54,2.0,2,0,83430.0
+Adice,75,4.0,1,0,93000.0
+Adice,34,1.0,1,0,56050.0
+Bulevar Oslobođenja,75,2.5,8,1,139050.0
+Salajka,43,1.5,1,0,127250.0
+Stari Grad,77,3.0,2,1,160000.0
+Adice,42,2.0,1,0,68300.0
+Podbara,52,2.5,2,1,139250.0
+Banatić,56,2.5,1,1,175100.0
+Grbavica,123,4.0,6,1,376000.0
+Sajmište,47,2.5,0,1,123600.0
+Liman,100,4.0,1,0,329600.0
+Satelit,49,2.0,1,1,103000.0
+Detelinara,23,0.5,5,0,56650.0
+Novo Naselje,50,2.0,4,0,77500.0
+Stari Grad,73,3.0,4,0,133900.0
+Nova Detelinara,83,3.0,5,1,136800.0
+Bulevar Evrope,54,2.0,4,1,132500.0
+Telep,48,3.0,0,1,104500.0
+Telep,65,2.5,0,0,167400.0
+Telep,150,4.0,1,0,340000.0
+Stari Grad,67,3.0,4,1,195200.0
+Nova Detelinara,26,0.5,3,1,73000.0
+Liman,59,2.0,6,0,122600.0
+Bulevar Oslobođenja,62,2.5,9,1,133900.0
+Stari Grad,36,1.5,2,1,123600.0
+Novo Naselje,62,3.0,1,1,135960.0
+Nova Detelinara,57,2.5,1,1,146800.0
+Detelinara,148,5.0,1,1,311000.0
+Telep,79,4.0,1,1,170000.0
+Stari Grad,84,3.0,6,1,225000.0
+Rotkvarija,23,1.0,1,0,68000.0
+Nova Detelinara,99,4.0,1,0,185300.0
+Sajmište,72,2.0,0,0,87500.0
+Adice,71,3.5,1,1,135950.0
+Stari Grad,71,3.0,2,1,140000.0
+Stari Grad,63,2.5,3,1,154500.0
+Novo Naselje,94,4.0,5,1,140390.0
+Nova Detelinara,40,1.5,1,1,113300.0
+Liman,72,3.0,5,1,154500.0
+Grbavica,48,2.0,5,1,118450.0
+Liman,72,2.5,5,1,209200.0
+Stari Grad,58,2.5,3,1,125400.0
+Liman,30,0.5,13,0,75000.0
+Podbara,24,0.5,1,0,72000.0
+Podbara,38,1.5,2,0,100700.0
+Sajmište,28,0.5,4,1,88000.0
+Stari Grad,86,5.0,4,1,180500.0
+Petrovaradin,80,3.5,2,1,149600.0
+Podbara,43,2.0,4,1,120000.0
+Sajmište,45,2.0,2,1,135000.0
+Banatić,23,0.5,7,1,69000.0
+Novo Naselje,65,2.0,7,1,120250.0
+Podbara,43,2.0,4,1,123600.0
+Novo Naselje,29,0.5,4,0,70900.0
+Liman,79,3.0,6,1,211100.0
+Podbara,27,0.5,0,0,72100.0
+Stari Grad,21,0.5,0,0,61800.0
+Stari Grad,32,1.0,4,1,90000.0
+Rotkvarija,47,3.0,1,1,160100.0
+Rotkvarija,23,0.5,7,1,73150.0
+Telep,46,3.0,2,1,108100.0
+Bulevar Oslobođenja,53,2.0,8,1,164200.0
+Novo Naselje,65,3.0,8,0,153900.0
+Grbavica,35,1.5,0,1,108100.0
+Nova Detelinara,86,4.0,3,1,236900.0
+Salajka,32,1.5,1,0,87500.0
+Detelinara,85,4.0,5,1,144200.0
+Novo Naselje,29,0.5,4,0,71000.0
+Stari Grad,24,0.5,1,1,74150.0
+Liman,30,0.5,13,0,77250.0
+Adice,74,3.0,1,1,118150.0
+Adice,65,3.5,0,1,103800.0
+Bulevar Oslobođenja,40,2.0,4,1,128750.0
+Sajmište,53,2.0,8,1,164300.0
+Stari Grad,56,2.5,1,1,173050.0
+Salajka,45,1.5,4,1,78800.0
+Kamenjar,33,0.5,1,0,56700.0
+Sajmište,64,2.0,6,1,139050.0
+Adice,60,2.5,2,1,98670.0
+Detelinara,40,1.5,3,1,109180.0
+Banatić,23,1.0,7,0,71000.0
+Liman,39,1.5,9,1,97800.0
+Bulevar Oslobođenja,60,2.5,0,1,119480.0
+Adamovićevo Naselje,55,2.5,5,0,123600.0
+Rotkvarija,48,2.0,2,0,153470.0
+Telep,57,3.5,2,1,99910.0
+Majur,53,2.5,0,0,122570.0
+Podbara,56,2.5,0,1,122550.0
+Bulevar Oslobođenja,82,4.0,3,1,261830.0
+Bulevar Oslobođenja,82,4.0,3,1,261830.0
+Grbavica,47,2.0,2,1,133900.0
+Grbavica,73,3.0,2,1,168720.0
+Stari Grad,48,2.0,2,1,153470.0
+Stari Grad,72,3.0,5,1,180765.0
+Adice,28,0.5,0,1,42500.0
+Bulevar Oslobođenja,28,1.0,0,1,87550.0
+Telep,57,2.5,3,1,111550.0
+Detelinara,43,1.5,4,1,118450.0
+Stari Grad,92,4.0,1,1,274800.0
+Telep,58,2.5,3,1,132870.0
+Bulevar Oslobođenja,65,3.5,6,1,141110.0
+Bulevar Oslobođenja,73,3.5,7,1,164800.0
+Bulevar Oslobođenja,110,4.0,2,1,249900.0
+Bulevar Oslobođenja,63,3.0,1,1,124000.0
+Stari Grad,50,2.0,1,0,231750.0
+Bulevar Oslobođenja,33,1.0,3,1,84980.0
+Podbara,46,2.5,2,1,118450.0
+Sremska Kamenica,142,5.0,1,0,292500.0
+Nova Detelinara,53,2.5,5,0,131330.0
+Nova Detelinara,73,3.0,6,1,142800.0
+Stari Grad,148,3.5,4,1,244200.0
+Adice,36,1.5,1,0,66950.0
+Bulevar Evrope,94,4.0,1,0,154500.0
+Stari Grad,43,1.5,6,1,85000.0
+Grbavica,55,2.0,2,1,128800.0
+Sajmište,93,4.0,2,1,210750.0
+Bulevar Oslobođenja,101,3.0,5,1,218360.0
+Podbara,30,0.5,1,1,72100.0
+Nova Detelinara,55,2.5,1,1,211150.0
+Telep,49,2.5,0,1,114950.0
+Telep,115,4.5,1,1,248600.0
+Telep,61,3.0,2,1,144100.0
+Telep,55,2.5,2,1,129200.0
+Novo Naselje,65,2.5,5,1,142150.0
+Adamovićevo Naselje,98,5.0,5,1,185000.0
+Grbavica,56,3.0,1,1,173000.0
+Novo Naselje,53,2.5,3,1,106460.0
+Novo Naselje,65,2.5,1,1,129780.0
+Stari Grad,30,0.5,0,1,77800.0
+Adice,67,2.5,2,1,99500.0
+Grbavica,47,2.0,2,1,142800.0
+Kamenjar,40,1.5,0,1,67500.0
+Adice,29,0.5,3,0,64890.0
+Grbavica,106,4.0,2,0,247200.0
+Podbara,30,0.5,1,1,72100.0
+Nova Detelinara,55,2.5,1,1,211150.0
+Telep,49,2.5,0,1,114950.0
+Telep,115,4.5,1,1,248600.0
+Telep,61,3.0,2,1,144100.0
+Telep,55,2.5,2,1,129200.0
+Novo Naselje,65,2.5,5,1,142150.0
+Adamovićevo Naselje,98,5.0,5,1,185000.0
+Grbavica,56,3.0,1,1,173000.0
+Novo Naselje,53,2.5,3,1,106460.0
+Novo Naselje,65,2.5,1,1,129780.0
+Stari Grad,30,0.5,0,1,77800.0
+Adice,67,2.5,2,1,99500.0
+Grbavica,47,2.0,2,1,142800.0
+Kamenjar,40,1.5,0,1,67500.0
+Adice,29,0.5,3,0,64890.0
+Grbavica,106,4.0,2,0,247200.0
+Nova Detelinara,98,4.5,3,1,164800.0
+Salajka,86,4.0,1,1,161090.0
+Salajka,44,1.5,1,1,90570.0
+Salajka,44,1.5,1,1,90650.0
+Salajka,43,1.5,1,1,88730.0
+Salajka,47,1.5,2,1,95400.0
+Salajka,44,1.5,2,1,90570.0
+Salajka,47,1.5,2,1,95400.0
+Salajka,44,1.5,3,1,90650.0
+Adice,54,3.0,1,1,92700.0
+Liman,52,2.0,0,0,107120.0
+Liman,100,4.0,1,0,329600.0
+Detelinara,77,3.0,1,0,133900.0
+Adice,71,4.0,1,1,135960.0
+Petrovaradin,60,2.0,1,0,135950.0
+Adice,71,4.0,1,0,135960.0
+Novo Naselje,62,3.0,1,0,113300.0
+Adice,68,3.5,1,1,105060.0
+Adice,36,1.5,0,1,66000.0
+Grbavica,113,4.0,3,1,221150.0
+Podbara,153,4.0,4,1,346690.0
+Novo Naselje,121,4.0,1,0,412000.0
+Rotkvarija,56,2.5,1,1,175100.0
+Podbara,153,4.0,4,1,346690.0
+Novo Naselje,121,4.0,1,0,412000.0
+Rotkvarija,56,2.5,1,1,175100.0
+Nova Detelinara,36,1.5,2,1,101970.0
+Majur,41,1.5,1,1,88670.0
+Petrovaradin,41,2.0,3,1,91770.0
+Rotkvarija,65,3.0,1,1,148320.0
+Novo Naselje,52,2.0,6,1,90640.0
+Stari Grad,29,0.5,3,0,116400.0
+Grbavica,39,2.0,0,0,87550.0
+Majur,131,5.0,4,0,283070.0
+Stari Grad,27,0.5,1,1,77250.0
+Nova Detelinara,42,1.5,2,1,99500.0
+Nova Detelinara,40,2.0,1,1,114350.0
+Nova Detelinara,40,2.0,2,1,114350.0
+Nova Detelinara,36,2.0,1,1,103420.0
+Nova Detelinara,40,2.0,1,1,115880.0
+Nova Detelinara,36,2.0,2,1,103420.0
+Nova Detelinara,40,2.0,2,1,115880.0
+Nova Detelinara,40,2.0,3,1,114550.0
+Nova Detelinara,88,4.0,4,1,197530.0
+Nova Detelinara,40,2.0,4,1,115910.0
+Nova Detelinara,40,2.0,3,1,115910.0
+Nova Detelinara,36,2.0,5,1,104080.0
+Nova Detelinara,37,2.0,5,1,106190.0
+Nova Detelinara,63,2.5,5,1,142290.0
+Nova Detelinara,40,2.0,5,1,115900.0
+Nova Detelinara,43,2.0,5,1,124130.0
+Nova Detelinara,80,3.5,5,1,180830.0
+Nova Detelinara,48,2.0,1,1,136930.0
+Nova Detelinara,48,2.0,2,1,136930.0
+Grbavica,33,1.5,4,1,95790.0
+Adice,74,4.0,1,1,118990.0
+Detelinara,47,2.0,1,0,96820.0
+Novo Naselje,76,3.0,2,1,164800.0
+Stari Grad,21,0.5,0,0,61800.0
+Podbara,27,0.5,0,0,72100.0
+Novo Naselje,73,3.0,4,1,139050.0
+Grbavica,50,2.0,2,1,123600.0
+Veternik,84,3.5,1,1,133650.0
+Stari Grad,21,0.5,0,0,61800.0
+Podbara,27,0.5,0,0,72100.0
+Novo Naselje,73,3.0,4,1,139050.0
+Grbavica,50,2.0,2,1,123600.0
+Veternik,84,3.5,1,1,133650.0
+Veternik,38,1.5,2,1,73200.0
+Veternik,46,2.5,2,1,83400.0
+Telep,87,4.0,3,1,221450.0
+Liman,77,3.0,10,1,150600.0
+Nova Detelinara,30,1.5,0,1,72100.0
+Sajmište,100,3.0,4,1,267800.0
+Bulevar Oslobođenja,55,2.0,1,0,139150.0
+Grbavica,44,1.5,1,0,126900.0
+Sajlovo,32,1.5,0,0,51500.0
+Novo Naselje,25,1.5,0,0,51500.0
+Banatić,54,2.0,0,0,114000.0
+Telep,87,4.0,3,1,221450.0
+Stari Grad,50,2.5,1,1,154500.0
+Sajmište,51,2.0,1,1,97850.0
+Telep,46,2.5,2,1,108150.0
+Adice,23,1.0,1,0,55600.0
+Adice,100,4.0,1,0,206000.0
+Stari Grad,33,0.5,3,1,101900.0
+Detelinara,47,2.0,1,0,96820.0
+Grbavica,52,2.0,1,1,133900.0
+Nova Detelinara,33,0.5,1,1,88400.0
+Adice,72,3.0,1,1,130810.0
+Nova Detelinara,59,2.0,-1,0,91670.0
+Detelinara,38,1.0,1,1,87550.0
+Nova Detelinara,40,1.5,2,1,99500.0
+Detelinara,47,2.0,1,0,96820.0
+Salajka,101,4.0,2,1,291280.0
+Podbara,83,4.0,2,0,154500.0
+Veternik,81,4.0,1,1,116800.0
+Grbavica,103,4.0,1,1,276000.0
+Rotkvarija,72,3.0,1,1,130000.0
+Grbavica,53,2.0,0,0,139050.0
+Stari Grad,127,4.0,3,1,242000.0
+Stari Grad,107,4.0,2,1,275500.0
+Petrovaradin,226,7.0,1,0,350000.0
+Adice,34,1.5,2,1,61600.0
+Adice,75,3.5,1,1,100500.0
+Sajmište,56,2.0,6,1,101000.0
+Adice,23,1.0,1,0,55600.0
+Adice,100,4.0,1,0,206000.0
+Stari Grad,33,0.5,3,1,101900.0
+Detelinara,47,2.0,1,0,96820.0
+Grbavica,52,2.0,1,1,133900.0
+Nova Detelinara,33,0.5,1,1,88400.0
+Adice,72,3.0,1,1,130810.0
+Nova Detelinara,59,2.0,-1,0,91670.0
+Detelinara,38,1.0,1,1,87550.0
+Nova Detelinara,40,1.5,2,1,99500.0
+Detelinara,47,2.0,1,0,96820.0
+Salajka,101,4.0,2,1,291280.0
+Podbara,83,4.0,2,0,154500.0
+Veternik,81,4.0,1,1,116800.0
+Grbavica,103,4.0,1,1,276000.0
+Rotkvarija,72,3.0,1,1,130000.0
+Grbavica,53,2.0,0,0,139050.0
+Stari Grad,127,4.0,3,1,242000.0
+Stari Grad,107,4.0,2,1,275500.0
+Petrovaradin,226,7.0,1,0,350000.0
+Adice,45,2.0,1,1,73990.0
+Stari Grad,92,4.0,1,1,283500.0
+Nova Detelinara,95,4.0,5,1,164800.0
+Grbavica,98,4.0,1,1,302820.0
+Grbavica,122,4.0,5,1,414700.0
+Telep,57,3.0,2,1,140900.0
+Telep,60,3.0,2,1,148320.0
+Telep,62,3.0,2,1,153260.0
+Telep,41,2.0,2,1,103500.0
+Telep,60,3.0,3,1,148320.0
+Telep,45,2.0,2,1,113560.0
+Telep,40,2.0,3,1,100940.0
+Telep,63,3.0,3,1,155730.0
+Telep,101,4.0,4,1,249670.0
+Stari Grad,46,2.0,3,1,189500.0
+Novo Naselje,121,4.0,2,1,242000.0
+Petrovaradin,39,1.5,1,1,105600.0
+Telep,87,4.0,3,1,221450.0
+Rotkvarija,47,2.5,0,1,160160.0
+Stari Grad,23,0.5,-1,0,44290.0
+Adice,59,3.5,0,1,123600.0
+Podbara,24,0.5,1,1,72000.0
+Grbavica,46,2.0,1,1,116300.0
+Liman,66,3.0,1,0,158600.0
+Liman,69,2.5,1,0,170700.0
+Adice,66,4.0,1,0,108050.0
+Sremska Kamenica,57,3.0,1,0,116250.0
+Stari Grad,63,2.0,4,0,206000.0
+Veternik,76,2.5,0,0,104820.0
+Petrovaradin,40,1.5,2,1,96000.0
+Stari Grad,92,4.0,1,1,274800.0
+Stari Grad,19,0.5,3,1,54590.0
+Sajmište,97,3.5,5,1,285000.0
+Liman,53,2.0,2,1,118450.0
+Stari Grad,32,1.0,4,1,90000.0
+Novo Naselje,49,2.0,1,1,99990.0
+Bulevar Oslobođenja,23,0.5,6,1,74000.0
+Telep,62,2.5,4,1,119500.0
+Liman,56,2.5,1,0,132870.0
+Telep,105,3.0,1,0,140600.0
+Sajmište,64,2.5,6,1,139000.0
+Adice,68,3.5,2,1,105060.0
+Stari Grad,95,4.0,6,1,190000.0
+Nova Detelinara,47,2.0,4,1,114150.0
+Novo Naselje,90,3.0,3,1,143680.0
+Salajka,100,4.0,1,1,257500.0
+Bulevar Oslobođenja,60,3.0,0,1,123600.0
+Petrovaradin,277,6.0,1,1,339900.0
+Nova Detelinara,42,2.0,1,1,108150.0
+Adamovićevo Naselje,42,2.0,1,1,80000.0
+Banatić,51,2.5,3,1,123600.0
+Sremska Kamenica,48,2.5,0,1,108000.0
+Sremska Kamenica,66,2.5,0,1,142870.0
+Sremska Kamenica,87,3.5,0,1,187650.0
+Bulevar Oslobođenja,23,0.5,7,0,74160.0
+Sremska Kamenica,129,4.5,1,1,291200.0
+Sremska Kamenica,93,3.5,0,1,200000.0
+Sremska Kamenica,103,3.5,1,1,255700.0
+Telep,44,2.0,2,1,100660.0
+Veternik,92,4.0,1,1,179000.0
+Satelit,48,2.0,1,0,72100.0
+Stari Grad,55,2.5,1,0,123600.0
+Stari Grad,58,2.5,4,1,149350.0
+Bulevar Oslobođenja,48,2.5,6,0,113300.0
+Adice,56,3.0,1,0,92300.0
+Bulevar Oslobođenja,26,1.5,4,1,76200.0
+Nova Detelinara,35,1.5,2,1,97300.0
+Liman,107,3.0,3,1,247970.0
+Grbavica,24,0.5,3,1,70550.0
+Telep,46,2.0,2,1,108930.0
+Podbara,60,2.0,3,0,154500.0
+Satelit,60,3.0,5,1,129000.0
+Telep,57,2.5,1,1,135700.0
+Rotkvarija,23,0.5,2,1,64000.0
+Podbara,43,2.0,1,0,123600.0
+Grbavica,24,0.5,5,1,69000.0
+Novo Naselje,56,2.0,0,0,108150.0
+Petrovaradin,66,3.0,1,1,131920.0
+Petrovaradin,60,3.0,1,1,120600.0
+Petrovaradin,41,2.0,1,1,86835.0
+Petrovaradin,55,3.0,2,1,115880.0
+Petrovaradin,41,2.0,2,1,86840.0
+Petrovaradin,66,3.0,2,1,132000.0
+Petrovaradin,60,3.0,3,1,120600.0
+Petrovaradin,66,3.0,3,1,131920.0
+Novo Naselje,52,2.0,6,1,90700.0
+Petrovaradin,31,1.5,0,0,43300.0
+Sremska Kamenica,37,1.5,2,1,62000.0
+Stari Grad,45,1.5,5,1,133900.0
+Grbavica,33,1.0,1,0,82300.0
+Stari Grad,85,4.5,2,1,257500.0
+Telep,270,4.0,1,1,288400.0
+Nova Detelinara,53,2.5,5,1,95000.0
+Nova Detelinara,84,3.5,5,0,129800.0
+Petrovaradin,60,2.0,2,0,135960.0
+Sajmište,83,3.0,3,1,193640.0
+Grbavica,73,3.0,1,0,172000.0
+Detelinara,47,2.0,1,0,96820.0
+Adice,67,3.5,2,1,103000.0
+Detelinara,43,1.5,3,1,84500.0
+Telep,125,5.0,1,1,289000.0
+Stari Grad,54,2.0,2,1,283200.0
+Grbavica,24,0.5,4,1,77250.0
+Novo Naselje,40,1.5,0,0,87500.0
+Novo Naselje,53,2.0,0,1,99910.0
+Bulevar Oslobođenja,64,2.5,6,1,139050.0
+Nova Detelinara,47,2.5,-1,0,58700.0
+Telep,49,2.0,5,1,125000.0
+Detelinara,37,1.5,5,0,72100.0
+Telep,62,3.0,0,1,153250.0
+Grbavica,98,4.0,2,1,333100.0
+Telep,104,4.0,3,1,206200.0
+Grbavica,74,3.0,2,1,251520.0
+Grbavica,124,4.0,5,1,421500.0
+Grbavica,72,3.0,1,1,244720.0
+Telep,42,2.0,0,1,106000.0
+Grbavica,124,4.0,4,1,421500.0
+Detelinara,42,1.5,2,1,108150.0
+Nova Detelinara,30,1.0,1,1,68000.0
+Novo Naselje,63,2.0,4,1,97850.0
+Grbavica,33,1.0,1,1,82400.0
+Detelinara,31,1.5,4,0,79310.0
+Nova Detelinara,28,0.5,1,1,65920.0
+Sremska Kamenica,41,1.5,1,1,63000.0
+Bulevar Oslobođenja,36,1.5,1,0,92700.0
+Telep,57,3.5,2,1,101970.0
+Novo Naselje,71,3.0,2,1,163770.0
+Telep,37,1.5,0,1,85500.0
+Stari Grad,131,4.0,2,0,337300.0
+Klisa,57,2.0,1,1,103000.0
+Adamovićevo Naselje,75,3.0,5,1,185400.0
+Sremska Kamenica,43,1.5,0,1,110000.0
+Nova Detelinara,62,2.5,2,1,125700.0
+Banatić,51,2.0,3,1,130800.0
+Liman,79,3.0,2,1,210100.0
+Stari Grad,70,3.0,5,1,247500.0
+Salajka,34,1.5,0,0,105400.0
+Sajmište,44,2.5,1,1,55000.0
+Liman,75,3.5,1,1,190550.0
+Grbavica,51,2.0,0,1,115000.0
+Detelinara,53,2.0,4,0,96540.0
+Stari Grad,32,0.5,4,1,69200.0
+Podbara,27,0.5,1,0,77050.0
+Telep,35,1.5,0,0,87210.0
+Telep,62,2.5,4,1,146780.0
+Telep,60,2.5,1,1,141360.0
+Telep,41,1.5,0,1,98320.0
+Novo Naselje,24,0.5,0,0,59150.0
+Novo Naselje,40,2.0,1,1,90790.0
+Novo Naselje,56,3.0,2,1,121063.0
+Bulevar Oslobođenja,75,4.0,7,0,185400.0
+Bulevar Oslobođenja,59,2.0,1,1,127800.0
+Rotkvarija,20,0.5,1,0,66950.0
+Adice,74,4.0,1,0,129000.0
+Adice,79,4.0,1,0,137500.0
+Adice,76,4.0,1,0,133600.0
+Adice,56,2.5,1,0,87700.0
+Nova Detelinara,40,1.5,1,0,104600.0
+Klisa,85,4.0,1,0,131250.0
+Klisa,75,4.0,1,0,115900.0
+Bulevar Oslobođenja,53,2.0,1,0,164300.0
+Novo Naselje,65,2.0,7,0,123850.0
+Rotkvarija,24,0.5,3,1,74200.0
+Stari Grad,52,1.0,0,0,118450.0
+Telep,40,2.0,1,1,102500.0
+Liman,52,2.0,2,1,118450.0
+Grbavica,176,3.5,3,1,351650.0
+Klisa,77,4.0,1,1,118100.0
+Telep,36,1.5,1,1,81880.0
+Podbara,54,2.0,3,1,100000.0
+Bulevar Oslobođenja,86,4.0,4,1,198000.0
+Sremska Kamenica,72,4.0,0,1,92700.0
+Bulevar Evrope,80,3.0,5,1,175000.0
+Novo Naselje,55,2.0,0,1,108150.0
+Salajka,50,2.0,4,1,97850.0
+Adice,75,3.0,1,1,118400.0
+Nova Detelinara,50,2.0,3,1,128700.0
+Liman,73,3.0,5,1,154500.0
+Novo Naselje,40,2.0,2,0,111240.0
+Podbara,57,2.5,2,1,135400.0
+Kamenjar,100,4.0,1,1,203800.0
+Adice,27,0.5,0,0,40600.0
+Nova Detelinara,31,1.0,2,1,78200.0
+Novo Naselje,35,1.0,5,0,81300.0
+Adice,52,3.0,2,1,92700.0
+Adamovićevo Naselje,63,2.5,4,1,175100.0
+Telep,50,2.5,2,1,195700.0
+Telep,37,1.5,2,1,70000.0
+Bulevar Evrope,57,2.5,2,0,154520.0
+Novo Naselje,49,2.0,1,1,103000.0
+Bulevar Oslobođenja,46,2.0,2,0,142140.0
+Adamovićevo Naselje,75,3.0,5,1,169950.0
+Bulevar Oslobođenja,46,2.0,3,0,141180.0
+Liman,79,3.0,2,1,210120.0
+Stari Grad,66,2.5,1,1,170000.0
+Stari Grad,31,1.0,1,1,97500.0
+Salajka,35,1.5,3,0,61500.0
+Bulevar Oslobođenja,33,1.5,3,0,101970.0
+Telep,66,2.5,1,1,121500.0
+Grbavica,74,3.0,1,1,190500.0
+Bulevar Oslobođenja,56,2.0,5,1,116400.0
+Sajmište,33,1.5,3,0,101970.0
+Detelinara,31,1.5,4,0,75190.0
+Petrovaradin,44,2.5,1,0,77250.0
+Bulevar Oslobođenja,34,1.0,4,1,81370.0
+Rotkvarija,47,2.5,0,1,160200.0
+Adice,68,2.5,0,1,105060.0
+Adice,68,3.0,2,1,105060.0
+Adice,72,3.0,2,1,111240.0
+Novo Naselje,31,1.0,3,1,74160.0
+Liman,63,3.0,1,0,139000.0
+Nova Detelinara,59,2.0,5,1,128750.0
+Sajmište,47,2.5,1,0,123600.0
+Nova Detelinara,84,3.5,5,1,129780.0
+Adice,29,0.5,0,0,43500.0
+Sajmište,64,2.5,7,1,154500.0
+Bulevar Evrope,38,1.5,3,1,154500.0
+Klisa,72,2.0,2,1,111240.0
+Klisa,76,2.0,1,1,112780.0
+Bulevar Oslobođenja,80,4.0,6,1,185400.0
+Stari Grad,67,3.0,5,1,236900.0
+Detelinara,47,2.0,2,0,92700.0
+Adamovićevo Naselje,43,2.0,0,0,99910.0
+Stari Grad,100,4.0,3,1,317240.0
+Adice,35,1.5,1,1,67980.0
+Adice,57,3.0,0,1,102750.0
+Telep,56,3.0,5,1,139050.0
+Bulevar Oslobođenja,101,5.0,1,1,185400.0
+Stari Grad,30,0.5,4,1,77250.0
+Telep,27,1.5,0,0,69525.0
+Stari Grad,73,3.0,3,1,195700.0
+Detelinara,50,2.5,1,0,108150.0
+Stari Grad,30,0.5,0,0,77760.0
+Telep,57,2.5,2,1,118450.0
+Adice,32,1.5,0,0,47380.0
+Detelinara,46,2.0,4,1,78000.0
+Stari Grad,73,3.0,5,1,182000.0
+Bulevar Oslobođenja,91,3.0,0,0,206000.0
+Podbara,44,2.0,4,1,140000.0
+Nova Detelinara,121,5.0,4,1,224300.0
+Nova Detelinara,29,1.5,4,0,64800.0
+Sremska Kamenica,132,4.0,1,1,269500.0
+Nova Detelinara,39,2.0,0,0,96820.0
+Rotkvarija,30,2.0,0,0,94700.0
+Grbavica,103,4.0,6,1,185400.0
+Bulevar Oslobođenja,89,3.5,6,1,169950.0
+Stari Grad,66,3.0,3,1,164440.0
+Bulevar Evrope,106,4.0,2,1,272950.0
+Stari Grad,30,0.5,0,0,77800.0
+Nova Detelinara,30,1.5,4,1,64900.0
+Novo Naselje,30,1.0,3,1,74150.0
+Adamovićevo Naselje,75,3.0,5,1,175100.0
+Detelinara,57,2.5,2,1,108000.0
+Bulevar Oslobođenja,80,3.5,4,1,236900.0
+Liman,61,2.5,8,1,146250.0
+Sajmište,54,2.5,0,1,123600.0
+Nova Detelinara,28,0.5,1,1,65900.0
+Adamovićevo Naselje,219,5.0,2,1,451500.0
+Adice,21,0.5,0,0,32900.0
+Telep,58,2.0,1,1,114020.0
+Liman,58,2.5,1,0,140080.0
+Stari Grad,285,8.0,2,1,494400.0
+Nova Detelinara,49,0.5,1,0,85000.0
+Stari Grad,66,2.0,4,1,139000.0
+Telep,55,3.0,2,1,105000.0
+Liman,26,1.0,1,0,69500.0
+Sremska Kamenica,82,4.0,1,0,153300.0
+Liman,41,1.5,1,0,104200.0
+Liman,35,1.5,1,0,90600.0
+Liman,43,2.0,1,0,106950.0
+Liman,70,3.0,1,0,156600.0
+Sajmište,39,2.0,3,1,103000.0
+Adice,75,4.0,1,0,100450.0
+Stari Grad,59,2.5,1,0,158000.0
+Veternik,98,5.0,1,0,164000.0
+Grbavica,30,0.5,3,1,84000.0
+Podbara,47,2.0,0,0,116190.0
+Adice,71,4.0,1,1,135960.0
+Nova Detelinara,121,5.0,4,1,224330.0
+Bulevar Evrope,33,2.0,4,0,92700.0
+Nova Detelinara,50,2.0,3,1,120000.0
+Veternik,100,5.0,1,1,159240.0
+Banatić,37,1.5,1,1,92500.0
+Bulevar Evrope,111,4.0,4,1,283250.0
+Majur,82,4.0,1,0,211160.0
+Nova Detelinara,23,0.5,2,0,67900.0
+Grbavica,103,4.0,1,0,158650.0
+Telep,86,3.0,3,1,206000.0
+Telep,125,4.5,1,0,296100.0
+Telep,37,1.5,1,0,91500.0
+Salajka,77,3.0,1,0,206000.0
+Rotkvarija,47,2.5,1,0,160400.0
+Bulevar Oslobođenja,34,1.0,4,0,81370.0
+Stari Grad,67,2.5,4,1,149350.0
+Bulevar Evrope,53,2.5,3,1,123600.0
+Grbavica,41,2.0,5,1,118450.0
+Petrovaradin,41,2.0,3,1,91700.0
+Novo Naselje,38,1.5,0,0,87800.0
+Sremska Kamenica,107,4.0,0,1,198380.0
+Novo Naselje,42,1.5,5,1,122060.0
+Stari Grad,21,0.5,1,0,61800.0
+Adice,61,3.5,0,1,151410.0
+Telep,70,3.0,2,1,180250.0
+Telep,56,2.5,2,1,144200.0
+Stari Grad,29,1.5,3,1,92700.0
+Grbavica,43,2.0,1,1,134000.0
+Podbara,70,3.0,5,1,182500.0
+Telep,87,4.0,2,1,197150.0
+Telep,90,4.0,2,1,203940.0
+Rotkvarija,46,2.0,1,1,155000.0
+Adamovićevo Naselje,75,3.0,5,0,169000.0
+Bulevar Oslobođenja,40,2.0,4,1,125000.0
+Liman,78,4.0,1,0,190550.0
+Stari Grad,67,3.0,5,1,236900.0
+Bulevar Oslobođenja,34,1.0,4,1,81370.0
+Petrovaradin,49,2.5,1,0,88600.0
+Petrovaradin,49,2.5,1,0,88600.0
+Petrovaradin,37,1.5,1,0,67500.0
+Salajka,36,1.0,1,0,76200.0
+Salajka,23,1.0,1,0,53500.0
+Salajka,14,1.0,1,0,36050.0
+Salajka,23,1.0,1,0,56650.0
+Liman,61,2.5,1,0,153950.0
+Telep,40,2.0,1,0,98900.0
+Telep,42,2.0,1,0,105950.0
+Telep,41,2.0,1,0,103500.0
+Telep,62,3.0,1,0,153300.0
+Telep,41,2.0,1,0,101300.0
+Telep,40,2.0,1,0,100950.0
+Nova Detelinara,22,0.5,0,0,51500.0
+Salajka,21,0.5,0,0,47380.0
+Nova Detelinara,39,1.5,1,1,113300.0
+Detelinara,50,2.0,1,1,108150.0
+Podbara,56,3.0,1,0,135000.0
+Telep,47,2.0,2,0,109200.0
+Nova Detelinara,46,2.0,2,1,132670.0
+Grbavica,84,3.0,0,1,154500.0
+Rotkvarija,60,2.0,3,1,108200.0
+Grbavica,50,2.5,0,0,164300.0
+Sremska Kamenica,107,4.0,0,1,198380.0
+Bulevar Oslobođenja,46,2.0,3,1,141180.0
+Podbara,39,2.0,1,0,108100.0
+Telep,43,2.0,1,0,106300.0
+Telep,32,1.5,1,0,79100.0
+Novo Naselje,66,3.0,1,1,139000.0
+Salajka,31,1.5,0,1,80500.0
+Rotkvarija,46,2.0,1,1,160000.0
+Bulevar Evrope,27,0.5,5,1,79290.0
+Kamenjar,73,4.0,1,1,105750.0
+Detelinara,39,2.0,0,0,80340.0
+Stari Grad,36,1.5,0,0,52000.0
+Grbavica,43,2.0,1,1,133900.0
+Novo Naselje,76,3.0,2,0,164800.0
+Stari Grad,143,4.5,3,0,278100.0
+Novo Naselje,81,3.0,4,1,164800.0
+Grbavica,91,3.0,1,1,164800.0
+Novo Naselje,117,4.0,4,1,138600.0
+Stari Grad,117,4.0,6,1,264000.0
+Adice,60,3.5,0,0,108210.0
+Telep,53,3.0,0,1,149350.0
+Nova Detelinara,28,0.5,1,1,65920.0
+Petrovaradin,107,5.0,2,1,177030.0
+Petrovaradin,110,4.0,2,1,181590.0
+Petrovaradin,38,2.0,1,1,72940.0
+Petrovaradin,88,4.0,1,1,146420.0
+Petrovaradin,61,3.0,1,1,101370.0
+Petrovaradin,93,4.0,1,1,154680.0
+Petrovaradin,56,3.0,1,1,98950.0
+Novo Naselje,83,3.5,4,0,170000.0
+Liman,70,3.0,2,0,170000.0
+Novo Naselje,80,3.0,1,1,159650.0
+Detelinara,48,2.0,2,1,105000.0
+Grbavica,103,4.0,6,1,159650.0
+Liman,56,3.0,5,1,144200.0
+Klisa,58,3.0,2,1,113000.0
+Novo Naselje,62,3.0,1,1,133900.0
+Klisa,58,3.0,2,1,113000.0
+Novo Naselje,62,3.0,1,1,133900.0
+Nova Detelinara,41,2.0,5,1,78280.0
+Adice,57,3.0,0,0,99780.0
+Majur,30,0.5,4,0,62830.0
+Novo Naselje,31,1.0,3,1,74160.0
+Podbara,63,3.0,5,1,149700.0
+Podbara,64,3.0,4,1,153000.0
+Podbara,66,3.0,5,1,157500.0
+Novo Naselje,29,0.5,4,0,70970.0
+Futoška,70,2.0,5,1,138000.0
+Stari Grad,29,1.5,3,1,92700.0
+Adice,42,1.5,0,0,61800.0
+Adice,33,1.5,1,1,61180.0
+Adice,31,1.5,2,1,57470.0
+Adice,38,1.5,1,1,70450.0
+Nova Detelinara,47,2.0,4,1,114200.0
+Banatić,58,2.0,6,1,106500.0
+Bulevar Oslobođenja,21,0.5,5,0,66950.0
+Bulevar Oslobođenja,64,2.5,6,1,139050.0
+Nova Detelinara,76,3.0,1,0,172220.0
+Grbavica,28,1.5,0,0,86210.0
+Grbavica,40,2.0,3,1,119100.0
+Grbavica,84,3.5,3,1,225915.0
+Grbavica,60,2.5,3,1,161750.0
+Grbavica,89,4.0,3,1,237780.0
+Grbavica,67,2.5,3,1,180335.0
+Telep,66,3.0,0,1,136000.0
+Adice,65,3.0,0,0,103000.0
+Detelinara,48,2.0,2,1,105000.0
+Telep,58,2.5,1,1,128100.0
+Banatić,40,1.5,2,0,80000.0
+Nova Detelinara,65,3.0,1,1,213210.0
+Adice,41,1.5,2,0,75400.0
+Bulevar Oslobođenja,70,2.5,7,1,106090.0
+Telep,172,4.0,2,0,271920.0
+Bulevar Oslobođenja,39,1.5,1,1,132560.0
+Bulevar Oslobođenja,77,4.0,0,1,245860.0
+Novo Naselje,66,3.0,1,1,139000.0
+Grbavica,84,3.5,3,1,225915.0
+Grbavica,60,2.5,3,1,161750.0
+Grbavica,89,4.0,3,1,237780.0
+Grbavica,67,2.5,3,1,180335.0
+Telep,66,3.0,0,1,136000.0
+Adice,65,3.0,0,0,103000.0
+Detelinara,48,2.0,2,1,105000.0
+Telep,58,2.5,1,1,128100.0
+Nova Detelinara,65,3.0,1,1,213210.0
+Adice,41,1.5,2,0,75400.0
+Bulevar Oslobođenja,70,2.5,7,1,106090.0
+Telep,172,4.0,2,0,271920.0
+Bulevar Oslobođenja,39,1.5,1,1,132560.0
+Bulevar Oslobođenja,77,4.0,0,1,245860.0
+Novo Naselje,66,3.0,1,1,139000.0
+Sremska Kamenica,21,0.5,1,0,37080.0
+Novo Naselje,40,1.5,0,0,92700.0
+Bulevar Evrope,42,2.0,2,1,128750.0
+Adamovićevo Naselje,35,1.5,0,0,93730.0
+Banatić,42,2.0,6,0,106090.0
+Podbara,43,2.0,4,1,120000.0
+Rotkvarija,33,1.5,3,0,98000.0
+Banatić,65,3.0,1,1,149500.0
+Podbara,45,2.0,2,0,123600.0
+Podbara,45,1.5,1,0,106600.0
+Bulevar Oslobođenja,23,1.0,1,0,74200.0
+Novo Naselje,23,1.0,1,0,73900.0
+Grbavica,27,0.5,1,1,92700.0
+Stari Grad,48,1.5,1,1,108150.0
+Stari Grad,60,2.0,3,1,154500.0
+Stari Grad,80,3.5,5,1,306940.0
+Telep,25,0.5,1,0,55000.0
+Telep,40,2.0,1,0,84000.0
+Telep,59,3.0,1,0,123900.0
+Petrovaradin,75,3.0,4,1,139050.0
+Grbavica,46,2.0,4,1,128750.0
+Liman,66,2.5,3,1,149350.0
+Podbara,36,1.5,6,0,78280.0
+Grbavica,49,2.0,2,1,144190.0
+Grbavica,47,2.0,1,1,142630.0
+Grbavica,44,2.0,1,1,128460.0
+Grbavica,41,1.5,0,1,119035.0
+Grbavica,43,1.5,0,1,124270.0
+Grbavica,68,3.0,0,1,196890.0
+Detelinara,59,2.5,5,1,143000.0
+Telep,145,4.0,3,1,360500.0
+Petrovaradin,41,2.0,3,1,91800.0
+Sajmište,70,3.0,1,1,154500.0
+Liman,30,0.5,3,1,103000.0
+Telep,29,0.5,0,0,71440.0
+Telep,41,1.5,0,0,98080.0
+Novo Naselje,39,2.0,6,1,100400.0
+Nova Detelinara,65,3.0,2,1,213210.0
+Grbavica,176,3.5,3,0,351650.0
+Kamenjar,100,4.0,1,1,199900.0
+Grbavica,71,4.0,5,1,185400.0
+Rotkvarija,34,1.5,1,0,122570.0
+Grbavica,53,2.0,1,0,139150.0
+Banatić,116,4.0,18,1,167270.0
+Grbavica,80,4.0,4,0,164800.0
+Telep,96,4.0,2,1,164800.0
+Detelinara,58,3.0,3,1,103000.0
+Grbavica,87,3.0,1,1,206000.0
+Petrovaradin,49,2.5,1,0,84950.0
+Petrovaradin,38,1.5,1,0,70400.0
+Petrovaradin,38,1.5,1,0,71000.0
+Petrovaradin,48,2.5,1,0,86600.0
+Petrovaradin,36,1.5,1,0,66400.0
+Petrovaradin,50,2.5,1,0,91000.0
+Petrovaradin,50,2.5,1,0,90850.0
+Petrovaradin,37,1.5,1,0,67000.0
+Liman,20,0.5,8,0,54000.0
+Stari Grad,36,1.5,2,1,89200.0
+Stari Grad,145,5.0,1,1,447500.0
+Rotkvarija,30,0.5,0,0,77760.0
+Adamovićevo Naselje,58,2.5,3,1,143400.0
+Rotkvarija,85,3.0,7,1,218850.0
+Rotkvarija,21,0.5,2,1,61800.0
+Sajmište,82,4.0,3,1,260600.0
+Sajmište,77,4.0,6,1,243860.0
+Sajmište,68,3.0,7,1,210120.0
+Adice,96,4.0,1,0,147400.0
+Stari Grad,86,3.0,7,1,205900.0
+Telep,133,4.0,2,1,321600.0
+Nova Detelinara,29,1.5,4,0,58000.0
+Grbavica,78,3.0,0,1,149870.0
+Salajka,54,1.5,5,1,111240.0
+Bulevar Oslobođenja,54,2.0,3,1,132000.0
+Liman,51,2.0,0,0,110210.0
+Bulevar Evrope,106,4.0,2,1,272950.0
+Rotkvarija,84,3.0,4,0,216000.0
+Stari Grad,63,2.5,3,1,142800.0
+Nova Detelinara,47,2.0,1,1,149400.0
+Liman,41,2.0,3,1,103000.0
+Stari Grad,98,4.0,4,0,267500.0
+Novo Naselje,122,4.0,1,1,265000.0
+Satelit,48,2.5,2,0,81700.0
+Telep,97,3.0,3,1,334750.0
+Sajmište,28,1.0,1,0,81400.0
+Podbara,27,0.5,0,0,72100.0
+Bulevar Oslobođenja,27,1.5,4,1,77770.0
+Stari Grad,101,3.0,1,1,266000.0
+Grbavica,41,1.5,2,1,123600.0
+Banatić,67,2.5,4,0,138020.0
+Adamovićevo Naselje,60,3.0,1,1,135000.0
+Stari Grad,52,2.5,3,1,111300.0
+Grbavica,26,0.5,3,0,70000.0
+Novo Naselje,65,2.0,7,1,123250.0
+Sremska Kamenica,124,4.0,1,1,280000.0
+Novo Naselje,31,1.0,3,1,74100.0
+Adice,27,0.5,0,0,40600.0
+Novo Naselje,32,1.5,5,1,54500.0
+Rotkvarija,23,0.5,6,0,49400.0
+Bulevar Oslobođenja,27,1.0,1,1,85900.0
+Stari Grad,23,1.0,-1,0,47300.0
+Detelinara,48,2.0,2,0,105000.0
+Sajmište,108,4.5,5,1,177900.0
+Liman,39,1.5,5,0,141100.0
+Novo Naselje,34,1.5,5,1,83000.0
+Adamovićevo Naselje,38,1.5,1,0,93730.0
+Stari Grad,32,1.0,4,1,90000.0
+Veternik,89,3.0,1,0,123760.0
+Novo Naselje,52,2.0,2,1,133900.0
+Bulevar Oslobođenja,80,2.0,3,1,181280.0
+Stari Grad,30,1.0,1,0,77250.0
+Veternik,92,3.0,2,0,127930.0
+Petrovaradin,75,3.0,1,0,139200.0
+Petrovaradin,24,1.0,1,0,34600.0
+Novo Naselje,40,2.0,2,1,111240.0
+Sremska Kamenica,110,4.0,0,1,181500.0
+Adamovićevo Naselje,245,4.0,3,1,566500.0
+Nova Detelinara,65,3.0,1,1,213210.0
+Podbara,27,0.5,0,0,72100.0
+Bulevar Oslobođenja,27,1.5,4,1,77770.0
+Stari Grad,101,3.0,1,1,266000.0
+Grbavica,41,1.5,2,1,123600.0
+Banatić,67,2.5,4,0,138020.0
+Adamovićevo Naselje,60,3.0,1,1,135000.0
+Stari Grad,52,2.5,3,1,111300.0
+Grbavica,26,0.5,3,0,70000.0
+Novo Naselje,65,2.0,7,1,123250.0
+Sremska Kamenica,124,4.0,1,1,280000.0
+Novo Naselje,31,1.0,3,1,74100.0
+Sajmište,43,2.0,1,1,94760.0
+Adice,27,0.5,0,0,40600.0
+Novo Naselje,32,1.5,5,1,54500.0
+Rotkvarija,23,0.5,6,0,49400.0
+Bulevar Oslobođenja,27,1.0,1,1,85900.0
+Stari Grad,23,1.0,-1,0,47300.0
+Detelinara,48,2.0,2,0,105000.0
+Sajmište,108,4.5,5,1,177900.0
+Liman,39,1.5,5,0,141100.0
+Novo Naselje,34,1.5,5,1,83000.0
+Stari Grad,80,2.5,6,1,124000.0
+Bulevar Evrope,40,2.0,5,1,139000.0
+Detelinara,48,2.0,2,1,105000.0
+Nova Detelinara,72,3.0,6,1,157500.0
+Nova Detelinara,84,3.5,5,1,129700.0
+Detelinara,58,3.0,4,1,97800.0
+Telep,58,2.5,1,1,127910.0
+Detelinara,48,2.0,2,1,105060.0
+Sajmište,26,1.0,5,1,70000.0
+Veternik,89,3.0,1,1,123760.0
+Rotkvarija,45,2.0,1,1,157500.0
+Rotkvarija,54,2.5,0,0,166500.0
+Banatić,50,2.0,1,0,92700.0
+Stari Grad,21,0.5,0,0,61800.0
+Podbara,46,2.0,0,0,71100.0
+Nova Detelinara,114,4.5,5,0,212180.0
+Adamovićevo Naselje,42,2.0,3,1,139050.0
+Adice,42,2.0,2,1,77250.0
+Podbara,23,0.5,4,1,67980.0
+Stari Grad,112,4.0,2,1,401408.0
+Stari Grad,60,2.5,3,0,129780.0
+Sajmište,41,1.5,6,0,126700.0
+Detelinara,48,2.0,2,1,105000.0
+Detelinara,48,2.0,2,1,105000.0
+Satelit,53,3.0,1,0,87550.0
+Rotkvarija,30,1.0,1,0,77800.0
+Nova Detelinara,43,2.0,4,1,103000.0
+Sajmište,36,1.5,1,0,112300.0
+Stari Grad,32,1.0,1,0,90000.0
+Adice,60,2.5,0,1,103000.0
+Rotkvarija,61,2.5,6,1,119400.0
+Salajka,93,4.0,3,1,162740.0
+Podbara,92,4.0,2,1,150380.0
+Liman,34,1.0,5,1,108150.0
+Bulevar Oslobođenja,30,0.5,-1,0,51500.0
+Detelinara,53,2.0,12,1,90000.0
+Detelinara,48,2.0,2,1,105000.0
+Stari Grad,60,3.0,3,1,108150.0
+Stari Grad,26,1.5,4,1,76220.0
+Stari Grad,56,3.0,1,1,175100.0
+Nova Detelinara,32,1.5,4,1,84460.0
+Stari Grad,67,3.0,5,1,236900.0
+Detelinara,54,2.0,4,1,118450.0
+Stari Grad,81,4.0,5,1,153900.0
+Novo Naselje,28,1.0,4,0,68900.0
+Podbara,38,1.5,2,1,103720.0
+Adamovićevo Naselje,75,3.0,5,1,185400.0
+Stari Grad,67,3.0,2,1,162230.0
+Bulevar Oslobođenja,65,2.5,2,1,142150.0
+Nova Detelinara,65,2.5,4,1,133400.0
+Grbavica,66,3.0,1,1,245150.0
+Rotkvarija,47,2.0,5,1,169500.0
+Nova Detelinara,64,3.0,4,1,164800.0
+Bulevar Oslobođenja,93,4.0,2,1,210750.0
+Bulevar Oslobođenja,25,0.5,0,0,90125.0
+Adice,63,2.0,2,1,87550.0
+Bulevar Oslobođenja,55,3.5,0,0,133900.0
+Stari Grad,62,2.0,5,1,190550.0
+Nova Detelinara,87,3.5,5,1,152400.0
+Liman,54,1.5,0,1,87550.0
+Telep,49,2.0,2,1,141300.0
+Liman,47,2.0,1,1,97850.0
+Stari Grad,53,3.0,2,1,146300.0
+Adice,31,0.5,2,0,56800.0
+Klisa,23,0.5,0,0,37900.0
+Klisa,40,2.0,3,0,57700.0
+Grbavica,91,3.0,2,1,168700.0
+Stari Grad,33,1.5,2,1,114350.0
+Grbavica,32,1.0,2,1,113300.0
+Adice,43,2.0,3,0,62000.0
+Grbavica,28,0.5,3,1,80400.0
+Adice,27,0.5,0,0,42550.0
+Stari Grad,65,3.0,1,1,143200.0
+Telep,107,4.0,3,1,206000.0
+Grbavica,40,2.0,3,1,112700.0
+Grbavica,88,4.0,3,1,237800.0
+Grbavica,84,3.5,3,1,225900.0
+Grbavica,67,2.5,3,1,180350.0
+Grbavica,60,2.5,3,1,161750.0
+Grbavica,37,2.0,1,1,114050.0
+Grbavica,63,3.0,1,1,183900.0
+Grbavica,61,2.5,3,1,165100.0
+Grbavica,88,3.5,3,1,250400.0
+Grbavica,49,2.0,3,1,143950.0
+Grbavica,42,1.5,3,1,128600.0
+Grbavica,37,1.5,3,1,114400.0
+Grbavica,43,2.0,1,1,128500.0
+Grbavica,49,2.0,2,1,144200.0
+Grbavica,77,4.0,3,0,200700.0
+Grbavica,28,0.5,0,0,88700.0
+Grbavica,49,2.0,1,1,139150.0
+Grbavica,43,1.5,0,1,124300.0
+Grbavica,68,3.0,0,1,196900.0
+Grbavica,40,1.5,0,1,119050.0
+Petrovaradin,50,3.0,2,1,88400.0
+Grbavica,27,1.5,0,0,86200.0
+Petrovaradin,49,2.5,1,1,86050.0
+Liman,53,1.5,0,0,120500.0
+Stari Grad,71,3.0,0,1,219400.0
+Grbavica,60,2.5,2,1,144200.0
+Stari Grad,69,3.0,2,1,226600.0
+Stari Grad,149,5.0,2,1,386250.0
+Grbavica,56,3.0,1,1,210000.0
+Bulevar Oslobođenja,60,3.0,2,1,167900.0
+Bulevar Oslobođenja,78,2.0,5,1,200000.0
+Stari Grad,100,5.0,0,0,139100.0
+Stari Grad,108,5.0,1,1,255850.0
+Grbavica,53,2.0,3,1,135000.0
+Nova Detelinara,45,2.0,5,0,108000.0
+Grbavica,33,1.5,4,1,93000.0
+Telep,62,2.5,4,1,116000.0
+Petrovaradin,53,1.5,1,1,80900.0
+Podbara,54,2.0,3,1,99900.0
+Novo Naselje,87,4.0,4,1,133900.0
+Stari Grad,44,1.0,0,0,123600.0
+Stari Grad,46,2.0,1,1,159650.0
+Adice,95,3.0,2,0,123600.0
+Bulevar Evrope,90,3.0,5,1,206000.0
+Nova Detelinara,40,1.5,3,1,106100.0
+Stari Grad,30,1.5,0,0,94800.0
+Adice,100,4.0,1,1,205900.0
+Sajmište,108,5.0,5,1,178000.0
+Rotkvarija,77,3.5,7,1,201900.0
+Satelit,48,2.0,1,1,80250.0
+Liman,80,3.0,6,1,211150.0
+Stari Grad,60,3.0,4,1,159650.0
+Stari Grad,40,1.5,6,1,103000.0
+Grbavica,123,4.0,6,1,375950.0
+Kamenjar,100,4.0,1,1,191000.0
+Telep,141,4.0,6,1,288000.0
+Detelinara,87,3.0,5,1,164800.0
+Adice,35,0.5,2,1,67000.0
+Podbara,76,3.0,2,0,156500.0
+Stari Grad,56,2.0,0,0,123600.0
+Podbara,68,3.0,1,1,136000.0
+Podbara,38,1.5,2,1,103700.0
+Nova Detelinara,19,0.5,0,0,39140.0
+Nova Detelinara,46,2.0,4,1,94760.0
+Nova Detelinara,98,4.5,3,1,167900.0
+Bulevar Evrope,75,3.5,3,1,164800.0
+Grbavica,23,0.5,2,1,69000.0
+Adice,39,2.5,2,1,76700.0
+Bulevar Oslobođenja,113,4.0,0,1,319300.0
+Klisa,29,0.5,0,0,50780.0
+Salajka,31,1.5,0,1,80500.0
+Podbara,27,0.5,0,0,72100.0
+Detelinara,48,2.0,2,1,105000.0
+Podbara,27,0.5,0,0,72100.0
+Podbara,32,0.5,1,1,85080.0
+Nova Detelinara,26,0.5,2,1,71100.0
+Grbavica,82,3.0,3,1,153830.0
+Nova Detelinara,38,1.5,4,1,94000.0
+Rotkvarija,39,2.0,1,1,127720.0
+Telep,96,4.0,4,1,222250.0
+Stari Grad,24,0.5,1,1,74160.0
+Satelit,33,1.0,1,0,63860.0
+Detelinara,48,2.0,1,0,105000.0
+Adice,65,2.5,1,1,117200.0
+Adice,65,2.5,2,1,117200.0
+Adice,57,2.5,0,0,102750.0
+Novo Naselje,56,2.0,0,1,108150.0
+Adice,57,3.0,0,0,99780.0
+Grbavica,52,2.5,1,1,134000.0
+Stari Grad,72,3.0,4,1,179940.0
+Sajmište,65,3.0,5,1,144200.0
+Stari Grad,33,1.5,3,1,114330.0
+Stari Grad,25,0.5,1,0,77250.0
+Sremska Kamenica,181,5.0,1,0,329600.0
+Podbara,77,3.5,2,1,191400.0
+Telep,106,3.0,2,1,139000.0
+Detelinara,48,2.0,2,1,105000.0
+Podbara,71,3.0,17,1,159140.0
+Nova Detelinara,36,1.5,2,1,101970.0
+Stari Grad,106,3.0,5,0,262030.0
+Stari Grad,79,2.0,5,0,195290.0
+Stari Grad,90,2.0,5,0,222500.0
+Stari Grad,72,3.0,5,0,178000.0
+Liman,74,3.0,2,1,163770.0
+Grbavica,87,3.0,3,1,170000.0
+Telep,117,5.0,3,1,535000.0
+Telep,70,3.0,2,1,172000.0
+Veternik,89,4.0,1,1,133500.0
+Veternik,93,4.0,2,1,139500.0
+Stari Grad,145,5.0,1,1,447524.0
+Nova Detelinara,97,4.0,5,1,280160.0
+Veternik,83,4.0,0,1,124500.0
+Stari Grad,55,2.5,3,1,147300.0
+Klisa,32,1.5,3,0,48620.0
+Stari Grad,60,2.0,2,0,185400.0
+Sajmište,31,1.0,0,1,66950.0
+Banatić,46,2.0,3,1,107120.0
+Telep,40,2.0,3,1,113520.0
+Bulevar Oslobođenja,64,2.5,6,1,139050.0
+Nova Detelinara,28,0.5,0,0,74260.0
+Satelit,48,2.5,1,0,90000.0
+Novo Naselje,31,1.0,1,0,74200.0
+Stari Grad,45,2.5,3,0,118500.0
+Sajmište,37,1.5,3,1,93940.0
+Banatić,39,1.5,2,1,94760.0
+Telep,57,3.5,2,1,99910.0
+Bulevar Oslobođenja,53,2.0,8,1,163800.0
+Detelinara,48,2.0,2,1,105000.0
+Stari Grad,21,0.5,0,0,61800.0
+Adamovićevo Naselje,67,3.0,3,1,179220.0
+Nova Detelinara,21,0.5,1,0,66950.0
+Veternik,95,4.0,1,1,159500.0
+Stari Grad,33,1.0,1,0,103000.0
+Stari Grad,107,4.0,2,1,275500.0
+Grbavica,97,3.0,6,1,375950.0
+Stari Grad,21,0.5,0,0,61800.0
+Podbara,27,0.5,0,0,72100.0
+Telep,26,0.5,1,1,62000.0
+Bulevar Oslobođenja,58,2.5,1,0,164800.0
+Banatić,76,3.0,1,0,144200.0
+Nova Detelinara,87,3.0,1,0,195700.0
+Detelinara,47,1.5,1,0,73000.0
+Majur,31,1.0,0,1,76220.0
+Rotkvarija,56,3.0,1,0,180000.0
+Grbavica,32,0.5,2,1,94850.0
+Novo Naselje,32,1.0,1,0,77250.0
+Nova Detelinara,31,0.5,5,0,51500.0
+Podbara,27,0.5,0,0,72100.0
+Nova Detelinara,66,3.0,1,1,136000.0
+Stari Grad,25,0.5,1,0,77250.0
+Detelinara,48,2.0,2,1,105000.0
+Telep,58,3.0,1,1,128450.0
+Nova Detelinara,21,0.5,1,0,66950.0
+Stari Grad,73,2.5,1,1,144000.0
+Podbara,47,2.5,2,0,145230.0
+Grbavica,75,3.0,5,1,216300.0
+Bulevar Oslobođenja,80,4.5,6,1,164800.0
+Petrovaradin,75,2.5,4,1,139050.0
+Grbavica,115,4.0,4,1,206880.0
+Liman,74,3.0,2,1,163770.0
+Sajmište,150,4.5,1,1,510000.0
+Podbara,47,2.0,2,0,114150.0
+Podbara,47,2.0,1,1,113840.0
+Bulevar Oslobođenja,38,1.5,4,0,89000.0
+Sajmište,53,2.5,5,0,130810.0
+Podbara,57,2.5,2,1,136990.0
+Liman,70,3.0,5,1,176130.0
+Liman,130,5.0,5,1,322150.0
+Nova Detelinara,99,4.0,2,1,185400.0
+Telep,32,0.5,1,1,67000.0
+Majur,65,3.0,1,1,160680.0
+Podbara,67,2.0,1,1,151820.0
+Liman,69,2.5,1,1,192000.0
+Bulevar Evrope,94,3.0,5,1,154500.0
+Podbara,44,2.0,2,1,119000.0
+Petrovaradin,40,2.0,0,0,81200.0
+Podbara,44,2.0,2,1,119000.0
+Petrovaradin,40,2.0,0,0,81200.0
+Klisa,19,0.5,0,0,33270.0
+Bulevar Oslobođenja,78,3.0,3,1,267800.0
+Grbavica,34,1.5,1,1,89610.0
+Detelinara,54,2.5,0,0,120000.0
+Telep,100,3.5,6,0,190550.0
+Veternik,44,1.5,2,1,67640.0
+Nova Detelinara,67,2.0,1,1,138000.0
+Nova Detelinara,51,2.0,0,1,87620.0
+Nova Detelinara,28,0.5,1,1,65900.0
+Grbavica,79,3.0,1,1,197000.0
+Liman,100,4.0,1,1,329600.0
+Podbara,60,2.0,3,1,154500.0
+Bulevar Oslobođenja,56,2.0,0,1,86520.0
+Liman,90,3.5,5,1,206000.0
+Novo Naselje,82,3.0,5,1,122500.0
+Grbavica,90,3.5,5,1,171500.0
+Rotkvarija,65,3.0,1,1,146410.0
+Adice,39,1.5,0,0,63650.0
+Adamovićevo Naselje,40,1.5,0,0,70040.0
+Banatić,51,2.0,3,1,131300.0
+Veternik,45,2.5,2,1,83316.0
+Grbavica,21,0.5,1,1,69900.0
+Podbara,28,1.0,1,0,80300.0
+Adice,27,0.5,1,0,38800.0
+Rotkvarija,67,3.0,1,1,159650.0
+Novo Naselje,40,1.5,10,1,77250.0
+Novo Naselje,35,1.5,1,0,72100.0
+Bulevar Evrope,22,0.5,0,0,72100.0
+Bulevar Evrope,42,2.0,0,1,120510.0
+Stari Grad,21,1.0,1,0,61800.0
+Podbara,27,1.0,1,0,72100.0
+Liman,74,3.0,1,0,163800.0
+Nova Detelinara,39,1.5,1,1,123600.0
+Detelinara,46,2.0,4,0,78280.0
+Detelinara,34,1.0,5,0,92700.0
+Adamovićevo Naselje,29,1.5,0,1,70040.0
+Sajmište,120,5.0,1,1,167900.0
+Liman,65,3.5,6,0,93730.0
+Detelinara,31,1.0,5,1,51500.0
+Sajmište,58,2.0,4,1,115350.0
+Novo Naselje,94,4.0,5,1,140400.0
+Novo Naselje,86,3.0,5,1,128440.0
+Novo Naselje,80,2.5,5,1,119500.0
+Stari Grad,32,1.0,4,1,90000.0
+Nova Detelinara,29,1.5,4,0,64890.0
+Banatić,73,3.0,3,1,157900.0
+Bulevar Oslobođenja,33,1.5,10,0,87550.0
+Telep,58,2.5,3,1,148060.0
+Telep,54,2.5,3,1,139720.0
+Podbara,24,0.5,1,1,74160.0
+Stari Grad,92,4.0,1,1,278100.0
+Petrovaradin,166,5.0,5,1,240000.0
+Stari Grad,56,3.0,1,1,175100.0
+Rotkvarija,94,4.0,5,1,185400.0
+Grbavica,113,4.0,1,0,221200.0
+Novo Naselje,29,0.5,3,0,82400.0
+Grbavica,47,2.0,2,1,106500.0
+Telep,57,2.5,1,1,141600.0
+Telep,71,2.5,3,1,182620.0
+Adice,61,3.5,0,1,97850.0
+Sajmište,75,3.0,2,0,199999.0
+Novo Naselje,69,2.0,3,1,135040.0
+Adice,52,2.5,2,1,92700.0
+Bulevar Evrope,73,2.0,1,0,180000.0
+Telep,35,1.5,4,0,86520.0
+Stari Grad,25,1.0,1,0,77250.0
+Bulevar Oslobođenja,56,2.0,3,1,149970.0
+Novo Naselje,63,1.5,4,1,97850.0
+Stari Grad,44,2.0,0,1,113300.0
+Liman,74,3.0,1,0,154500.0
+Bulevar Evrope,47,2.0,1,0,92460.0
+Liman,61,2.5,1,0,146300.0
+Novo Naselje,62,3.0,1,0,128750.0
+Rotkvarija,41,1.0,5,1,97850.0
+Adice,27,0.5,1,0,38800.0
+Nova Detelinara,87,3.0,5,1,164800.0
+Rotkvarija,46,2.0,1,0,159650.0
+Telep,57,2.5,1,1,141600.0
+Telep,71,2.5,3,1,182620.0
+Adice,61,3.5,0,1,97850.0
+Sajmište,75,3.0,2,0,199999.0
+Novo Naselje,69,2.0,3,1,135040.0
+Adice,52,2.5,2,1,92700.0
+Bulevar Evrope,73,2.0,1,0,180000.0
+Telep,35,1.5,4,0,86520.0
+Stari Grad,25,1.0,1,0,77250.0
+Bulevar Oslobođenja,56,2.0,3,1,149970.0
+Novo Naselje,63,1.5,4,1,97850.0
+Stari Grad,44,2.0,0,1,113300.0
+Liman,74,3.0,1,0,154500.0
+Bulevar Evrope,47,2.0,1,0,92460.0
+Liman,61,2.5,1,0,146300.0
+Novo Naselje,62,3.0,1,0,128750.0
+Rotkvarija,41,1.0,5,1,97850.0
+Adice,27,0.5,1,0,38800.0
+Nova Detelinara,87,3.0,5,1,164800.0
+Rotkvarija,46,2.0,1,0,159650.0
+Adamovićevo Naselje,75,3.0,1,0,174100.0
+Novo Naselje,29,1.0,1,0,71000.0
+Veternik,64,2.0,0,0,61800.0
+Bulevar Oslobođenja,101,4.0,1,0,236900.0
+Telep,69,3.0,3,1,151800.0
+Sajmište,63,2.5,5,0,133900.0
+Nova Detelinara,136,4.0,4,1,244010.0
+Podbara,95,4.0,2,1,246170.0
+Bulevar Oslobođenja,204,7.0,2,1,695250.0
+Stari Grad,86,4.0,3,1,190550.0
+Stari Grad,76,3.0,3,1,164800.0
+Stari Grad,48,1.5,6,1,123600.0
+Stari Grad,94,3.0,0,0,309000.0
+Nova Detelinara,40,1.5,1,1,92700.0
+Stari Grad,56,2.0,1,1,213420.0
+Telep,80,3.5,1,1,134900.0
+Telep,55,2.5,3,1,139000.0
+Telep,100,4.5,4,1,159650.0
+Bulevar Oslobođenja,46,2.0,5,0,77250.0
+Stari Grad,81,3.0,7,0,154500.0
+Telep,48,2.0,2,1,103350.0
+Stari Grad,33,1.5,3,1,100940.0
+Adamovićevo Naselje,51,2.0,4,0,120000.0
+Detelinara,60,2.5,2,1,117420.0
+Sajmište,80,4.0,6,0,216300.0
+Adice,21,0.5,0,1,51500.0
+Grbavica,52,2.0,2,1,133900.0
+Podbara,67,2.0,1,1,138000.0
+Rotkvarija,29,1.0,1,0,105150.0
+Rotkvarija,25,1.0,1,0,90640.0
+Rotkvarija,43,2.0,1,0,160800.0
+Rotkvarija,56,2.5,1,0,203000.0
+Rotkvarija,25,1.0,1,0,93500.0
+Rotkvarija,69,3.0,1,0,242500.0
+Rotkvarija,126,4.0,1,0,399800.0
+Rotkvarija,70,3.0,1,0,245900.0
+Petrovaradin,62,2.5,1,0,114950.0
+Adice,100,3.5,1,1,200850.0
+Detelinara,58,2.0,3,1,111400.0
+Grbavica,33,1.5,4,1,95790.0
+Bulevar Evrope,37,1.5,0,1,98900.0
+Nova Detelinara,25,0.5,5,1,73100.0
+Stari Grad,149,5.0,2,1,395185.0
+Grbavica,62,2.0,6,1,133900.0
+Stari Grad,120,4.0,2,1,247200.0
+Stari Grad,122,5.0,2,1,319300.0
+Stari Grad,55,3.5,0,0,133900.0
+Banatić,56,2.0,5,1,88580.0
+Liman,58,2.5,5,0,133900.0
+Podbara,87,3.5,4,0,154500.0
+Nova Detelinara,91,3.0,0,1,154400.0
+Detelinara,85,4.0,5,1,123600.0
+Petrovaradin,44,2.5,6,0,77250.0
+Nova Detelinara,106,4.0,2,1,262030.0
+Petrovaradin,116,4.0,0,1,114330.0
+Adamovićevo Naselje,68,3.0,0,0,70040.0
+Grbavica,68,2.5,4,1,132870.0
+Stari Grad,102,3.0,1,1,189110.0
+Satelit,50,2.0,3,1,103000.0
+Telep,31,0.5,2,1,66950.0
+Grbavica,79,3.0,3,1,152160.0
+Stari Grad,67,3.0,4,1,113300.0
+Salajka,81,3.5,3,0,100000.0
+Stari Grad,107,4.0,2,1,275530.0
+Stari Grad,115,4.0,3,1,247200.0
+Stari Grad,100,4.0,3,1,133900.0
+Stari Grad,38,1.5,2,0,123600.0
+Petrovaradin,80,3.0,1,1,133900.0
+Grbavica,86,3.0,3,1,195700.0
+Stari Grad,59,3.5,3,1,133900.0
+Stari Grad,148,4.0,4,1,251550.0
+Petrovaradin,87,3.0,1,1,123600.0
+Bulevar Oslobođenja,76,2.5,4,1,154500.0
+Novo Naselje,89,3.0,4,1,146670.0
+Novo Naselje,64,2.0,2,1,133900.0
+Grbavica,93,4.0,1,0,267800.0
+Stari Grad,71,3.0,1,1,159140.0
+Bulevar Oslobođenja,63,3.0,5,0,154500.0
+Bulevar Oslobođenja,85,3.5,1,1,186480.0
+Bulevar Oslobođenja,93,3.5,2,1,204030.0
+Petrovaradin,25,1.0,1,0,66950.0
+Stari Grad,32,0.5,3,1,82400.0
+Banatić,39,1.5,2,1,94750.0
+Banatić,46,2.0,3,1,107120.0
+Adamovićevo Naselje,29,1.5,0,0,70040.0
+Telep,38,1.5,2,1,73000.0
+Bulevar Evrope,51,1.5,4,0,92700.0
+Bulevar Oslobođenja,38,1.0,7,1,93700.0
+Stari Grad,61,3.0,4,0,108000.0
+Liman,96,5.0,6,1,164800.0
+Detelinara,43,1.5,4,1,108150.0
+Liman,64,2.0,1,1,206000.0
+Bulevar Evrope,25,0.5,1,1,72100.0
+Telep,35,1.5,1,1,78500.0
+Telep,59,2.5,0,1,127600.0
+Liman,107,3.0,3,1,246000.0
+Liman,61,2.5,8,1,145500.0
+Bulevar Evrope,37,1.5,-1,0,70000.0
+Adice,29,0.5,0,1,51500.0
+Bulevar Evrope,44,2.0,5,1,127310.0
+Rotkvarija,49,1.5,1,1,95275.0
+Bulevar Oslobođenja,85,3.5,1,1,186400.0
+Grbavica,92,3.0,1,1,216300.0
+Bulevar Evrope,80,4.0,5,1,250000.0
+Sajmište,33,1.5,4,1,85500.0
+Nova Detelinara,66,3.0,3,0,185400.0
+Nova Detelinara,40,1.5,1,1,92700.0
+Bulevar Oslobođenja,59,2.0,1,1,127700.0
+Detelinara,46,2.0,4,0,84820.0
+Adice,60,3.5,0,0,108210.0
+Telep,81,3.0,3,1,99900.0
+Telep,58,2.5,2,1,142680.0
+Novo Naselje,52,2.0,6,1,92700.0
+Podbara,33,1.5,0,0,82400.0
+Liman,66,3.0,11,0,108150.0
+Banatić,36,1.5,2,0,112300.0
+Adice,27,0.5,0,0,41200.0
+Nova Detelinara,23,0.5,5,1,69900.0
+Adice,32,1.5,0,0,56230.0
+Telep,56,2.0,2,1,107640.0
+Novo Naselje,59,2.0,0,1,141110.0
+Detelinara,36,1.5,1,1,87500.0
+Bulevar Oslobođenja,26,0.5,4,1,76200.0
+Podbara,36,1.5,0,1,108150.0
+Jugovićevo,91,4.0,0,1,215580.0
+Nova Detelinara,85,4.0,5,1,144200.0
+Bulevar Evrope,24,1.0,3,0,70000.0
+Nova Detelinara,121,5.0,4,1,224330.0
+Grbavica,92,3.0,1,1,216300.0
+Grbavica,47,2.0,2,1,133900.0
+Detelinara,50,2.0,1,1,108150.0
+Podbara,27,0.5,1,0,70000.0
+Grbavica,92,3.0,1,1,216300.0
+Bulevar Evrope,79,3.0,5,1,164800.0
+Telep,66,3.5,0,1,143670.0
+Telep,58,2.5,1,1,143005.0
+Rotkvarija,65,3.0,1,0,139050.0
+Novo Naselje,94,4.0,1,0,140400.0
+Novo Naselje,86,3.0,1,0,128450.0
+Novo Naselje,82,3.0,1,0,122500.0
+Novo Naselje,80,3.0,1,0,119500.0
+Novo Naselje,113,4.0,1,0,168800.0
+Liman,62,2.5,1,0,185400.0
+Rotkvarija,125,5.0,1,1,411000.0
+Bulevar Evrope,112,4.0,5,1,282600.0
+Stari Grad,21,0.5,1,0,60000.0
+Stari Grad,33,1.5,3,1,114330.0
+Detelinara,62,3.0,0,1,122570.0
+Banatić,38,1.5,5,0,82400.0
+Satelit,48,2.0,1,0,77300.0
+Liman,66,2.5,3,1,149560.0
+Nova Detelinara,83,3.5,2,1,179530.0
+Stari Grad,100,3.5,6,1,150000.0
+Satelit,48,2.0,0,0,87550.0
+Telep,38,2.5,1,1,82400.0
+Adice,28,0.5,0,0,43260.0
+Adice,28,1.5,0,0,44805.0
+Stari Grad,40,1.5,4,1,88580.0
+Bulevar Oslobođenja,49,2.0,4,0,113300.0
+Stari Grad,21,0.5,3,1,57170.0
+Bulevar Evrope,92,3.5,3,1,184000.0
+Grbavica,234,4.0,8,1,1018670.0
+Novo Naselje,44,2.0,1,1,86000.0
+Novo Naselje,102,4.0,1,1,174500.0
+Novo Naselje,46,2.0,1,1,90000.0
+Novo Naselje,42,2.0,3,1,82800.0
+Novo Naselje,198,5.0,9,1,307200.0
+Novo Naselje,42,2.0,1,1,82600.0
+Novo Naselje,40,2.0,2,1,78150.0
+Novo Naselje,42,2.0,2,1,82400.0
+Novo Naselje,89,4.0,1,1,151650.0
+Novo Naselje,42,2.0,1,1,81400.0
+Novo Naselje,39,2.0,1,1,76500.0
+Novo Naselje,39,2.0,1,1,77850.0
+Novo Naselje,39,2.0,1,1,76850.0
+Novo Naselje,39,2.0,1,1,77050.0
+Novo Naselje,40,2.0,2,1,79200.0
+Novo Naselje,41,2.0,1,1,81700.0
+Novo Naselje,40,2.0,1,1,78900.0
+Novo Naselje,39,2.0,1,1,77550.0
+Novo Naselje,39,2.0,2,1,77550.0
+Novo Naselje,42,2.0,3,1,82800.0
+Novo Naselje,132,4.0,3,1,224900.0
+Novo Naselje,133,4.0,9,1,227450.0
+Novo Naselje,40,2.0,2,1,78750.0
+Novo Naselje,39,2.0,12,1,77100.0
+Novo Naselje,86,4.0,1,1,146600.0
+Novo Naselje,41,2.0,1,1,81100.0
+Novo Naselje,39,2.0,1,1,76800.0
+Veternik,76,4.0,1,1,105800.0
+Novo Naselje,38,2.0,1,1,75950.0
+Novo Naselje,38,2.0,1,1,75550.0
+Telep,56,2.5,1,1,134900.0
+Veternik,76,4.0,1,1,105800.0
+Telep,77,4.0,1,1,174600.0
+Telep,72,4.0,1,1,164350.0
+Telep,45,2.0,1,1,108950.0
+Telep,61,3.0,1,1,142600.0
+Telep,77,4.0,2,1,174600.0
+Telep,72,4.0,2,1,164350.0
+Telep,45,2.0,2,1,108950.0
+Telep,61,3.0,2,1,142600.0
+Banatić,68,2.5,7,1,115400.0
+Stari Grad,85,3.0,0,1,145000.0
+Stari Grad,67,3.0,4,1,195200.0
+Liman,77,2.5,8,1,226600.0
+Grbavica,92,3.0,1,1,210000.0
+Adice,81,3.0,3,1,96000.0
+Petrovaradin,72,3.0,3,1,142560.0
+Petrovaradin,80,3.5,2,1,149600.0
+Nova Detelinara,42,1.5,4,1,169900.0
+Telep,71,3.0,3,1,190100.0
+Telep,73,3.0,4,1,142350.0
+Telep,65,2.5,4,1,128000.0
+Telep,48,1.5,4,1,116650.0
+Telep,69,2.5,3,1,167000.0
